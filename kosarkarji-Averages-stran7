@@ -1,0 +1,1555 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+   <head>
+      <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EE4QGPXB83"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EE4QGPXB83');
+</script><meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>NBA Player Stats - RealGM</title>
+
+<meta property="article:publisher" content="https://www.facebook.com/RealGM">
+<meta property="fb:app_id" content="305642309526726">
+<meta name="keywords" content="nba stats leaders, 2012-13 nba Scoring Per Game leaders, nba offensive leaders, NBA defensive leaders, pro basketball statistics">
+<meta name="description" content="Discover the Regular Season NBA player stat leaders for Scoring Per Game with RealGM.com's NBA League Leaderboard">
+<meta property="rgm:pageid" content="nba_stats">
+<meta property="rgm:datetime" content="2022-10-26 07:55:43">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.25">
+<link rel="stylesheet" href="/css/normalize.min.css">
+<link rel="stylesheet" href="/css/main.v5.css">
+<script src="/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<script src="/js/vendor/jquery-1.11.0.min.js"></script>
+<link rel="stylesheet" href="/css/tablesaw.css?v1">
+<script src="/js/vendor/tablesaw.js?v1"></script>
+<script>
+window.grunticon=function(e){if(e&&3===e.length){var t=window,n=!(!t.document.createElementNS||!t.document.createElementNS("https://www.w3.org/2000/svg","svg").createSVGRect||!document.implementation.hasFeature("https://www.w3.org/TR/SVG11/feature#Image","1.1")||window.opera&&-1===navigator.userAgent.indexOf("Chrome")),o=function(o){var r=t.document.createElement("link"),a=t.document.getElementsByTagName("script")[0];r.rel="stylesheet",r.href=e[o&&n?0:o?1:2],a.parentNode.insertBefore(r,a)},r=new t.Image;r.onerror=function(){o(!1)},r.onload=function(){o(1===r.width&&1===r.height)},r.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="}};
+grunticon(["/css/icons.data.svg.css", "/css/icons.data.png.css", "/css/icons.fallback.css"]);
+</script>
+<noscript><link href="/css/icons.fallback.css" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="/css/ui/jquery-ui.min.css">
+<script src="/js/vendor/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//dd7ihopnvjirc.cloudfront.net./script.js"></script>
+<!-- Freestar -->
+<link rel="stylesheet" href="https://a.pub.network/core/pubfig/cls.css">
+<script data-cfasync="false" type="text/javascript">
+  var freestar = freestar || {};
+  freestar.queue = freestar.queue || [];
+  freestar.config = freestar.config || {};
+  freestar.config.enabled_slots = [];
+  freestar.initCallback = function () { (freestar.config.enabled_slots.length === 0) ? freestar.initCallbackCalled = false : freestar.newAdSlots(freestar.config.enabled_slots) }
+</script>
+<script src="https://a.pub.network/basketball-realgm-com/pubfig.min.js" async></script>
+
+<!-- SendToNews -->
+<script>
+   window.addEventListener('message',function(event) { 
+      if(event.data.type !== 's2nEvent' || event.data.s2nEvent !== 'readyToPlay') {
+         return;
+      }
+      ga('send', {
+         hitType: 'event',
+         eventCategory: 'SendtoNews Player',
+         eventAction: 'readyToPlay',
+         eventLabel: event.data.playerKey,
+         nonInteraction: true
+      });
+   });
+</script><!-- Admiral Visitor Relationship Management Tag for realgm.com -->
+<script type="text/javascript">!(function(o,n,t){t=o.createElement(n),o=o.getElementsByTagName(n)[0],t.async=1,t.src="https://crabbychin.com/v2xiarE5mtupbLvnDAhioj-sEJQRFclYJPkwawXCjjSjplml0zylisI8T6dMjquyd",o.parentNode.insertBefore(t,o)})(document,"script"),(function(o,n){function t(){(t.q=t.q||[]).push(arguments)}t.v=1,o.admiral=o.admiral||t})(window);!(function(o,t,n,c){function e(n){(function(){try{return(localStorage.getItem("v4ac1eiZr0")||"").split(",")[4]>0}catch(o){}return!1})()&&(n=o[t].pubads())&&n.setTargeting("admiral-engaged","true")}(c=o[t]=o[t]||{}).cmd=c.cmd||[],typeof c.pubads===n?e():typeof c.cmd.unshift===n?c.cmd.unshift(e):c.cmd.push(e)})(window,"googletag","function");;;!(function(t,n,i,e,o){function a(){for(var t=[],i=0;i<arguments.length;i++)t.push(arguments[i]);if(!t.length)return o;"ping"===t[0]?t[2]({gdprAppliesGlobally:!!n.__cmpGdprAppliesGlobally,cmpLoaded:!1,cmpStatus:"stub"}):t.length>0&&o.push(t)}function c(t){if(t&&t.data&&t.source){var e,o=t.source,a="string"==typeof t.data&&t.data.indexOf("__tcfapiCall")>=0;(e=a?((function(t){try{return JSON.parse(t)}catch(n){}})(t.data)||{}).__tcfapiCall:(t.data||{}).__tcfapiCall)&&n[i](e.command,e.version,(function(t,n){var i={__tcfapiReturn:{returnValue:t,success:n,callId:e.callId}};o&&o.postMessage(a?JSON.stringify(i):i,"*")}),e.parameter)}}!(function f(){if(!window.frames[e]){var n=t.body;if(n){var i=t.createElement("iframe");i.style.display="none",i.name=e,n.appendChild(i)}else setTimeout(f,5)}})(),o=[],a.v=1,"function"!=typeof n[i]&&(n[i]=n[i]||a,n.addEventListener?n.addEventListener("message",c,!1):n.attachEvent&&n.attachEvent("onmessage",c))})(document,window,"__tcfapi","__tcfapiLocator");;!(function(n,t,i,u,e,o,r){function a(n){if(n){var u=(n.data||{}).__uspapiCall;u&&t[i](u.command,u.version,(function(t,i){n.source.postMessage({__uspapiReturn:{returnValue:t,success:i,callId:u.callId}},"*")}))}}!(function f(){if(!window.frames[u]){var t=n.body;if(t){var i=n.createElement("iframe");i.style.display="none",i.name=u,t.appendChild(i)}else setTimeout(f,5)}})();var s={getUSPData:function(n,t){return n!==1?t&&t(null,!1):t&&t({version:null,uspString:null},!1)}};function c(n,t,i){return s[n](t,i)}c.v=1,"function"!=typeof t[i]&&(t[i]=t[i]||c,t.addEventListener?t.addEventListener("message",a,!1):t.attachEvent&&t.attachEvent("onmessage",a)),o=n.createElement(e),r=n.getElementsByTagName(e)[0],o.src="https://crabbychin.com/v2comJlLffAdgm_N8Tqqo_3G_F3JEpMFBAGdm15GtSCHgo2GxncypoCcrPkgIPg1cFlrLQ_ofHuLtTpQpVA",r.parentNode.insertBefore(o,r)})(document,window,"__uspapi","__uspapiLocator","script");</script>   </head>
+   <body>
+      <div class="container">
+         <div class="leaderboard-ad-container clearfix">
+            <!-- Tag ID: realgm_leaderboard_atf -->
+<div align="center" data-freestar-ad="__970x90" id="realgm_leaderboard_atf">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "realgm_leaderboard_atf", slotId: "realgm_leaderboard_atf" });
+  </script>
+</div>         </div>
+      </div>
+      
+      <div id="site-takeover">
+      
+         <div id="header_wrap">
+         
+            <header class="wrapper clearfix">
+            
+               <div class="container">
+               
+                  <div class="tabs-container clearfix">
+                  
+                     <div class="logo-container clearfix">
+                        <a href="/"><img src="/images/basketball/5.0/template/realgm-basketball-logo-175-80.png" class="logo" /></a>
+                     </div>
+                     
+                     <div class="secondary-ad-container"></div>
+                     
+                     <div id="social-menu" class="topmenu">
+                        <ul>
+                           <li class="instagram"><a href="https://www.instagram.com/realgmnba" title="RealGM on Instagram"></a></li>
+                           <li class="facebook"><a href="https://www.facebook.com/RealGM" title="RealGM on Facebook"></a></li>
+                           <li class="twitter"><a href="https://twitter.com/RealGM" title="RealGM on Twitter"></a></li>
+                        </ul>
+                     </div>
+                     
+                     <div id="sports-menu" class="topmenu">
+                        <div id="sports-menu-container">
+                           <ul>
+                              <li class="top-icon navitem nbalink selected"><a href="/"><span></span><nav>Basketball</nav></a></li>
+                              <li class="top-icon navitem nfllink"><a href="https://football.realgm.com/"><span></span><nav>Football</nav></a></li>
+                              <li class="top-icon navitem mlblink"><a href="https://baseball.realgm.com/"><span></span><nav>Baseball</nav></a></li>
+                              <li class="top-icon navitem soccerlink"><a href="https://soccer.realgm.com/"><span></span><nav>Soccer</nav></a></li>
+                              <li class="top-icon navitem nhllink"><a href="https://hockey.realgm.com/"><span></span><nav>Hockey</nav></a></li>
+                              <li class="top-icon navitem forumlink"><a href="https://forums.realgm.com/boards/index.php"><span></span><nav>Forums</nav></a></li>
+                              <li class="top-icon navitem oddslink"><a href="https://basketball.realgm.com/betting"><span></span><nav>Betting</nav></a></li>
+                              <li class="top-icon navitem tixlink"><a href="https://www.vividseats.com/?wsUser=958" target="_blank"><span></span><nav>Tickets</nav></a></li>
+                              <li class="top-icon navitem instagram"><a href="https://www.instagram.com/realgmnba" title="RealGM on Instagram"><span></span></a></li>
+                              <li class="top-icon navitem facebook"><a href="https://www.facebook.com/RealGM" title="RealGM on Facebook"><span></span></a></li>
+                              <li class="top-icon navitem twitter"><a href="https://twitter.com/RealGM" title="RealGM on Twitter"><span></span></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                     
+                     <div class="searchbar">
+                        <form action="/search" method="get" class="searchbox" id="playersearch" autocomplete="off">
+                           <input type="text" class="searchbox-text" placeholder="Search..." name="q" id="searchfield" onkeyup="searchButtonUp();" required="required"><input type="submit" class="searchbox-submit" value="Go">
+                        </form>
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+            </header>
+               
+            <div class="top-nav-container">
+<div class="wrapper clearfix">
+<div id="menu-button" class="clearfix">
+<a href="/" class="home_logo"><img src="/images/basketball/5.0/template/realgm-basketball-logo-130-60.png" style="height: 30px; width: 65px;"></a></a>
+<a href="javascript:void(0);" class="menu-link"><span></span><nav>Menu</nav></a>
+<a href="javascript:void(0);" onclick="showSportsNav()"><nav id="primary-sport-menu-icon"><u>NBA</u></nav></a>
+</div><nav id="top-level-nav" role="navigation" class="container">
+<ul class="primary-nav">
+<li class="search-nav">
+<form action="/search" method="get" class="searchbox" autocomplete="off">
+<input type="text" class="searchbox-text ui-autocomplete-input" placeholder="Search..." name="q" required="required" autocomplete="off"><input type="submit" class="searchbox-submit" value="Go">
+</form>
+</li>
+<li class="has-subnav">
+<a href="/nba" id="change-sports-menu">NBA</a>
+<div class="primary-nav-ddl">
+<ul>
+<li><a href="/nba">NBA</a></li><li><a href="/ncaa">NCAA</a></li><li><a href="/gleague">G League</a></li><li><a href="/international">International</a></li><li><a href="/national">National</a></li><li><a href="/highschool">High School</a></li></ul>
+</div>
+</li><li class="has-subnav">
+<a href="https://forums.realgm.com/boards/viewforum.php?f=243">Forums</a>
+<div class="primary-nav-ddl">
+<ul class="primary-nav-col" style="width: 15em; float: left;">
+<li><a href="https://forums.realgm.com/boards/viewforum.php?f=243">Basketball Forums</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=6">The General Board</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=64">Player Comparisons</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=2">Trades & Transactions</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=344">Statistical Analysis</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=39">Fantasy Basketball</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=465">Gambling</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=3">NBA Draft</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=36">NCAA Basketball</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=350">G League</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=5">International Basketball</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=346">High School Basketball</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=69">Current Affairs</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=42">Off-Topic Board</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=4">CBA & Business</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=40">Feedback</a></li></ul>
+<div style="float: left; border-left: 1px solid black; padding-left: 1em;">
+<div style="float: left; width: 16em;">
+<p style="padding-left: 15px;">Atlantic Division</p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="https://forums.realgm.com/boards/viewforum.php?f=8">Boston Celtics</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=23">Brooklyn Nets</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=24">New York Knicks</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=26">Philadelphia Sixers</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=32">Toronto Raptors</a></li></ul>
+</div>
+<div style="float: left; width: 16em;">
+<p style="padding-left: 15px;">Central Division</p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="https://forums.realgm.com/boards/viewforum.php?f=10">Chicago Bulls</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=11">Cleveland Cavaliers</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=14">Detroit Pistons</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=17">Indiana Pacers</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=21">Milwaukee Bucks</a></li></ul>
+</div>
+<div style="float: left; width: 16em;">
+<p style="padding-left: 15px;">Southeast Division</p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="https://forums.realgm.com/boards/viewforum.php?f=7">Atlanta Hawks</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=53">Charlotte Hornets</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=20">Miami Heat</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=25">Orlando Magic</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=35">Washington Wizards</a></li></ul>
+</div>
+<div style="clear: both; height: 1em;" class="sep"></div>
+<div style="float: left; width: 16em;">
+<p style="padding-left: 15px;">Northwest Division</p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="https://forums.realgm.com/boards/viewforum.php?f=13">Denver Nuggets</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=22">Minnesota Timberwolves</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=334">Oklahoma City Thunder</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=28">Portland Trail Blazers</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=33">Utah Jazz</a></li></ul>
+</div>
+<div style="float: left; width: 16em;">
+<p style="padding-left: 15px;">Pacific Division</p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="https://forums.realgm.com/boards/viewforum.php?f=15">Golden State Warriors</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=18">Los Angeles Clippers</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=19">Los Angeles Lakers</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=27">Phoenix Suns</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=29">Sacramento Kings</a></li></ul>
+</div>
+<div style="float: left; width: 16em;">
+<p style="padding-left: 15px;">Southwest Division</p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="https://forums.realgm.com/boards/viewforum.php?f=12">Dallas Mavericks</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=16">Houston Rockets</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=34">Memphis Grizzlies</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=9">New Orleans Pelicans</a></li><li><a href="https://forums.realgm.com/boards/viewforum.php?f=30">San Antonio Spurs</a></li></ul>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+</li><li>
+<a href="/nba/news">News</a>
+<div class="primary-nav-ddl">
+<ul class="primary-nav-col" style="width: 15em; float: left;">
+<li><a href="/news/wiretap/tags/15/NBA">All Rumors</a></li><li><a href="/news/wiretap/tags/16/Signing-Rumor">Free Agent Rumors</a></li><li><a href="/news/wiretap/tags/18/Trade Rumor">Trade Rumors</a></li><li><a href="/news/wiretap/tags/53/Waiver">Waivers</a></li><li><a href="/news/wiretap/tags/25/NBA-Draft">NBA Draft</a></li><li><a href="/news/wiretap/tags/52/CBA">CBA</a></li><li><a href="/news/wiretap/tags/24/Injury">Injuries</a></li><li><a href="/news/wiretap/tags/55/Award">Awards</a></li><li><a href="/news/wiretap/tags/63/Fines">Fines</a></li><li><a href="/news/wiretap/tags/23/Suspension">Suspensions</a></li><li><a href="/news/wiretap/tags/69/B-Ball-IQ">B-Ball IQ</a></li><li><a href="/news/wiretap/tags/97/Preseason">Preseason</a></li><li><a href="/news/wiretap/tags/98/Playoffs">Playoffs</a></li><li><a href="/news/wiretap/tags/95/Summer-League">Summer League</a></li><li><a href="/news/wiretap/tags/54/All-Star">All-Star</a></li><li><a href="/news/wiretap/tags/22/NBA">Rankings</a></li></ul>
+<div class="portal" style="float: left; border-left: 1px solid black; padding-left: 1em; max-width: 50em;">
+<div class="secondary-story-container" style="border-top: 0;"><div class="secondary-story">
+<a class="article-image" href="/wiretap/269152/Kawhi-Leonard-Held-Out-Of-Tuesdays-Game-With-Knee-Stiffness" style="background-image: url('https://basketball.realgm.com/images/nba/4.2/wiretap/photos/2006/Leonard_Kawhi_lac_210717.jpg');"></a>
+<div class="article-title"><a style="padding-left: 0;" href="/wiretap/269152/Kawhi-Leonard-Held-Out-Of-Tuesdays-Game-With-Knee-Stiffness">Kawhi Leonard Held Out Of Tuesday's Game With Knee Stiffness</a></div>
+<div class='article-content' style='font-weight: normal;'></div>
+</div>
+<div class="secondary-story">
+<a class="article-image" href="/wiretap/269150/John-Wall-Was-Pissed-As-Hell-Over-Not-Playing-Last-Season-With-Rockets" style="background-image: url('https://basketball.realgm.com/images/nba/4.2/wiretap/photos/2006/Wall_John_hou_210105.jpg');"></a>
+<div class="article-title"><a style="padding-left: 0;" href="/wiretap/269150/John-Wall-Was-Pissed-As-Hell-Over-Not-Playing-Last-Season-With-Rockets">John Wall Was 'Pissed As Hell' Over Not Playing Last Season With Rockets</a></div>
+<div class='article-content' style='font-weight: normal;'></div>
+</div>
+<div class="secondary-story">
+<a class="article-image" href="/wiretap/269153/Russell-Westbrook-Doubtful-For-Wednesday-Due-To-Hamstring-Soreness" style="background-image: url('https://basketball.realgm.com/images/nba/4.2/wiretap/photos/2006/Westbrook_Russell_lal_211022.jpg');"></a>
+<div class="article-title"><a style="padding-left: 0;" href="/wiretap/269153/Russell-Westbrook-Doubtful-For-Wednesday-Due-To-Hamstring-Soreness">Russell Westbrook Doubtful For Wednesday Due To Hamstring Soreness</a></div>
+<div class='article-content' style='font-weight: normal;'></div>
+</div>
+<div class="secondary-story">
+<a class="article-image" href="/wiretap/269151/Jaylen-Brown-Ends-Association-With-Kanye-Wests-Donda-Sports" style="background-image: url('https://basketball.realgm.com/images/nba/4.2/wiretap/photos/2006/Brown_Jaylen_bos_210513.jpg');"></a>
+<div class="article-title"><a style="padding-left: 0;" href="/wiretap/269151/Jaylen-Brown-Ends-Association-With-Kanye-Wests-Donda-Sports">Jaylen Brown Ends Association With Kanye West's Donda Sports</a></div>
+<div class='article-content' style='font-weight: normal;'></div>
+</div>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+</li><li>
+<a href="/nba/news/analysis">Analysis</a>
+<div class="primary-nav-ddl">
+<ul class="primary-nav-col" style="width: 15em; float: left; padding-top: 0.5em;">
+<li class="label"><u>Featured Writers</u></li><li><a href="/news/analysis/author/217/Colin-McGowan">Colin McGowan</a></li><li><a href="/news/analysis/author/6/Christopher-Reina">Christopher Reina</a></li><li><a href="/news/analysis/author/226/John-Wilmes">John Wilmes</a></li><li><a href="/news/analysis/author/245/Micah-Wimmer">Micah Wimmer</a></li><li class="label">&nbsp;</li><li class="label"><u>More Contributors</u></li><li><a href="/news/analysis/author/243/Katie-Heindl">Katie Heindl</a></li><li><a href="/news/analysis/author/145/RealGM-Staff-Report">RealGM Staff Report</a></li><li><a href="/news/analysis/author/228/Rafael-Uehara">Rafael Uehara</a></li><li><a href="/news/analysis/author/247/Kevin-Yeung">Kevin Yeung</a></li><li><a href="/news/analysis/author/256/Louis-Zatzman">Louis Zatzman</a></li></ul>
+<div class="portal" style="float: left; border-left: 1px solid black; padding-left: 1em; max-width: 50em;">
+<div class="secondary-story-container" style="border-top: 0;"><div class="secondary-story">
+<a class="article-image" href="/analysis/269144/The-Utah-Jazz-Are-Melodic-For-Now" style="background-image: url('https://basketball.realgm.com/images/nba/4.2/wiretap/photos/2006/Sexton_Collin_uta_221012.jpg');"></a>
+<div class="article-title"><a style="padding-left: 0;" href="/analysis/269144/The-Utah-Jazz-Are-Melodic-For-Now">The Utah Jazz Are Melodic, For Now</a></div>
+<p class="author-details" style="margin: 0 0 0.5em;">
+by <a href='/news/analysis/author/226/John-Wilmes' style='text-decoration: none;'>John Wilmes</a></p>
+<div class='article-content' style='font-weight: normal;'>The Jazz have an extremely annoying team to deal with on a night-to-night basis. So far, they've undermined everyone's expectations for them, perhaps even their own, and have done it without superstar talent.</div>
+</div>
+<div class="secondary-story">
+<a class="article-image" href="/analysis/269004/The-Joys-And-Dangers-Of-The-All-Or-Nothing-NBA" style="background-image: url('https://basketball.realgm.com/images/nba/4.2/wiretap/photos/2006/Leonard_Kawhi_lac_210716.jpg');"></a>
+<div class="article-title"><a style="padding-left: 0;" href="/analysis/269004/The-Joys-And-Dangers-Of-The-All-Or-Nothing-NBA">The Joys And Dangers Of The All-Or-Nothing NBA</a></div>
+<p class="author-details" style="margin: 0 0 0.5em;">
+by <a href='/news/analysis/author/6/Christopher-Reina' style='text-decoration: none;'>Christopher Reina</a></p>
+<div class='article-content' style='font-weight: normal;'>The NBA is in an unpredictable time where there are more viable title contenders from season to season. More teams are betting everything on the present to win a title, while there are more rebuilding teams willing to oblige them.</div>
+</div>
+<div class="secondary-story">
+<a class="article-image" href="/analysis/268940/Draymond-Green-And-The-Gross-Truth-Of-Sports" style="background-image: url('https://basketball.realgm.com/images/nba/4.2/wiretap/photos/2006/Green_Draymond_gsw_211129.jpg');"></a>
+<div class="article-title"><a style="padding-left: 0;" href="/analysis/268940/Draymond-Green-And-The-Gross-Truth-Of-Sports">Draymond Green And The Gross Truth Of Sports</a></div>
+<p class="author-details" style="margin: 0 0 0.5em;">
+by <a href='/news/analysis/author/226/John-Wilmes' style='text-decoration: none;'>John Wilmes</a></p>
+<div class='article-content' style='font-weight: normal;'>Access to the frenetic, physical, hyper-communicative disruption and coordination Draymond Green offers on the court has long required dealing with all the storm and fever he brings off it.</div>
+</div>
+<div class="secondary-story">
+<a class="article-image" href="/analysis/268863/Deandre-Ayton-And-The-Centers-Dilemma" style="background-image: url('https://basketball.realgm.com/images/nba/4.2/wiretap/photos/2006/Ayton_Deandre_phx_210713.jpg');"></a>
+<div class="article-title"><a style="padding-left: 0;" href="/analysis/268863/Deandre-Ayton-And-The-Centers-Dilemma">Deandre Ayton And The Center's Dilemma</a></div>
+<p class="author-details" style="margin: 0 0 0.5em;">
+by <a href='/news/analysis/author/226/John-Wilmes' style='text-decoration: none;'>John Wilmes</a></p>
+<div class='article-content' style='font-weight: normal;'>Deandre Ayton has played the role of a thankless big man and given finite room to flourish. The bill has seemed to come due on the good will he's shown during his subjugation into such a blunt instrument role.</div>
+</div>
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+</li><li class="has-subnav">
+<a href="/nba/teams">Teams</a>
+<div class="primary-nav-ddl">
+<div style="float: left; width: 16em;">
+<p style="padding-left: 15px;">Atlantic Division</p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="/nba/teams/Boston-Celtics/2/Home">Boston Celtics</a></li><li><a href="/nba/teams/Brooklyn-Nets/38/Home">Brooklyn Nets</a></li><li><a href="/nba/teams/New-York-Knicks/20/Home">New York Knicks</a></li><li><a href="/nba/teams/Philadelphia-Sixers/22/Home">Philadelphia Sixers</a></li><li><a href="/nba/teams/Toronto-Raptors/28/Home">Toronto Raptors</a></li></ul>
+</div>
+<div style="float: left; width: 16em;">
+<p style="padding-left: 15px;">Central Division</p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="/nba/teams/Chicago-Bulls/4/Home">Chicago Bulls</a></li><li><a href="/nba/teams/Cleveland-Cavaliers/5/Home">Cleveland Cavaliers</a></li><li><a href="/nba/teams/Detroit-Pistons/8/Home">Detroit Pistons</a></li><li><a href="/nba/teams/Indiana-Pacers/11/Home">Indiana Pacers</a></li><li><a href="/nba/teams/Milwaukee-Bucks/16/Home">Milwaukee Bucks</a></li></ul>
+</div>
+<div style="float: left; width: 16em;">
+<p style="padding-left: 15px;">Southeast Division</p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="/nba/teams/Atlanta-Hawks/1/Home">Atlanta Hawks</a></li><li><a href="/nba/teams/Charlotte-Hornets/3/Home">Charlotte Hornets</a></li><li><a href="/nba/teams/Miami-Heat/15/Home">Miami Heat</a></li><li><a href="/nba/teams/Orlando-Magic/21/Home">Orlando Magic</a></li><li><a href="/nba/teams/Washington-Wizards/30/Home">Washington Wizards</a></li></ul>
+</div>
+<div style="clear: both; height: 1em;" class="sep"></div>
+<div style="float: left; width: 16em;">
+<p style="padding-left: 15px;">Northwest Division</p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="/nba/teams/Denver-Nuggets/7/Home">Denver Nuggets</a></li><li><a href="/nba/teams/Minnesota-Timberwolves/17/Home">Minnesota Timberwolves</a></li><li><a href="/nba/teams/Oklahoma-City-Thunder/33/Home">Oklahoma City Thunder</a></li><li><a href="/nba/teams/Portland-Trail-Blazers/24/Home">Portland Trail Blazers</a></li><li><a href="/nba/teams/Utah-Jazz/29/Home">Utah Jazz</a></li></ul>
+</div>
+<div style="float: left; width: 16em;">
+<p style="padding-left: 15px;">Pacific Division</p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="/nba/teams/Golden-State-Warriors/9/Home">Golden State Warriors</a></li><li><a href="/nba/teams/Los-Angeles-Clippers/12/Home">Los Angeles Clippers</a></li><li><a href="/nba/teams/Los-Angeles-Lakers/13/Home">Los Angeles Lakers</a></li><li><a href="/nba/teams/Phoenix-Suns/23/Home">Phoenix Suns</a></li><li><a href="/nba/teams/Sacramento-Kings/25/Home">Sacramento Kings</a></li></ul>
+</div>
+<div style="float: left; width: 16em;">
+<p style="padding-left: 15px;">Southwest Division</p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="/nba/teams/Dallas-Mavericks/6/Home">Dallas Mavericks</a></li><li><a href="/nba/teams/Houston-Rockets/10/Home">Houston Rockets</a></li><li><a href="/nba/teams/Memphis-Grizzlies/14/Home">Memphis Grizzlies</a></li><li><a href="/nba/teams/New-Orleans-Pelicans/19/Home">New Orleans Pelicans</a></li><li><a href="/nba/teams/San-Antonio-Spurs/26/Home">San Antonio Spurs</a></li></ul>
+</div>
+<div style="clear: both;"></div>
+</div>
+</li><li class="has-subnav">
+<a href="#">GM Laboratory</a>
+<div class="primary-nav-ddl">
+<p style="margin-bottom: 0; color: #F36E21; text-align: center; font-style: italic; font-size: 1.5em;">Tools and Resources Used by Real General Managers.</p>
+<div style="float: left; width: 15em;">
+<p style="text-decoration: underline; padding: 0.3em 0.8em; margin-bottom: 0;"><a href="/nba/players">Players</a></p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="/nba/players">Current Players</a></li><li><a href="/nba/depth-charts">Depth Charts</a></li><li><a href="/nba/birth-cities">Birth Cities</a></li><li><a href="/nba/birth-countries">Birth Countries</a></li><li><a href="/nba/birth-dates">Birth Dates</a></li><li><a href="/nba/players-abroad">NBA Players Abroad</a></li></ul>
+<p style="text-decoration: underline; padding: 0.3em 0.8em; margin-bottom: 0;"><a href="/nba/awards">Awards</a></p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="/nba/awards/by_season">By Season</a></li><li><a href="/nba/awards/by_type">By Type</a></li><li><a href="/nba/awards/by_player">By Player</a></li><li><a href="/nba/awards/top_75">NBA's Top 75</a></li><li><a href="/nba/hall-of-fame">Hall of Fame</a></li><li><a href="/nba/retired-numbers">Retired Jerseys</a></li></ul>
+<p style="text-decoration: underline; padding: 0.3em 0.8em; margin-bottom: 0;"><a href="/nba/staff-members">Staff Members</a></p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="/nba/staff-members/20/Head-Coach/Current">Head Coaches</a></li><li><a href="/nba/staff-members/16/General-Manager/Current">General Managers</a></li></ul>
+</div>
+<div style="float: left; width: 15em;">
+<p style="text-decoration: underline; padding: 0.3em 0.8em; margin-bottom: 0;"><a href="/nba/transactions">Transactions</a></p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="/nba/transactions/league">Transactions History</a></li><li><a href="/nba/transactions/composition">Roster Compositions</a></li><li><a href="/nba/transactions/composition_search">Compositions Search</a></li><li><a href="/nba/transactions/trade-deadline">Trade Deadline</a></li><li><a href="/nba/player_tracker/trade">Trade Tracker</a></li><li><a href="/nba/current_free_agents">Current Free Agents</a></li><li><a href="/nba/future_free_agents">Future Free Agents</a></li><li><a href="/nba/free_agent_options">Contract Options</a></li><li><a href="/nba/player_tracker/free_agent">Free Agent Tracker</a></li><li><a href="/nba/offseason">Offseason Recap</a></li><li><a href="/nba/roster-turnover">Roster Turnover</a></li></ul>
+<p style="text-decoration: underline; padding: 0.3em 0.8em; margin-bottom: 0;"><a href="/nba/agent-client-list">Agents</a></p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="/nba/agent-client-list">Agent Client Lists</a></li><li><a href="/nba/agent-relationships">Agent Relationships</a></li></ul>
+</div>
+<div style="float: left; width: 15em;">
+<p style="text-decoration: underline; padding: 0.3em 0.8em; margin-bottom: 0;"><a href="/nba/draft/future_drafts/team">Future Draft Picks</a></p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="/nba/draft/future_drafts/team">Team Summary</a></li><li><a href="/nba/draft/future_drafts/yearly">Yearly Summary</a></li><li><a href="/nba/draft/future_drafts/detailed">Pick Details</a></li></ul>
+<p style="text-decoration: underline; padding: 0.3em 0.8em; margin-bottom: 0;">NBA Draft Tools</p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="/nba/draft/draft_simulator">Mock Draft Simulator</a></li><li><a href="/nba/draft/lottery_simulator">Lottery Simulator</a></li><li><a href="/nba/draft/prospects/stats">Prospect Stats</a></li></ul>
+<p style="text-decoration: underline; padding: 0.3em 0.8em; margin-bottom: 0;"><a href="/nba/draft">NBA Draft History</a></p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="/nba/draft/past-drafts">Past Drafts</a></li><li><a href="/nba/teams/Atlanta-Hawks/1/Draft_History/Historical">Team Draft History</a></li><li><a href="/nba/draft/draft-rights">Draft Rights</a></li><li><a href="/nba/draft/lottery_winners">Lottery Winners</a></li><li><a href="/nba/draft/lottery_results">Lottery History</a></li><li><a href="/nba/draft/lottery_results/by_team">Team Lottery History</a></li><li><a href="/nba/draft/search">NBA Draft Search</a></li><li><a href="/nba/draft/early_entry/by_year">Early Entrants</a></li><li><a href="/nba/draft/special_events">Special Events</a></li></ul>
+</div>
+<div style="float: left; width: 15em;">
+<p style="text-decoration: underline; padding: 0.3em 0.8em; margin-bottom: 0;"><a href="/nba/scores">Games</a></p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="/nba/scores">Scores</a></li><li><a href="/nba/schedules">Schedules</a></li><li><a href="/nba/standings">Standings</a></li><li><a href="/nba/venues">Venues</a></li></ul>
+<p style="text-decoration: underline; padding: 0.3em 0.8em; margin-bottom: 0;">Events</p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="/nba/preseason">Preseason</a></li><li><a href="/nba/summer">Summer League</a></li><li><a href="/nba/regular_season/history">Regular Season</a></li><li><a href="/nba/allstar">All-Star Weekend</a></li><li><a href="/nba/playoffs">Playoffs</a></li><li><a href="/nba/draft">NBA Draft</a></li></ul>
+<p style="text-decoration: underline; padding: 0.3em 0.8em; margin-bottom: 0;"><a href="/nba/info/salary_cap">Salary Cap</a></p>
+<ul class="primary-nav-col" style="font-weight: normal;">
+<li><a href="/nba/info/salary_cap">Salary Cap History</a></li><li><a href="/nba/info/minimum_scale">Minimum Scale</a></li><li><a href="/nba/info/rookie_scale">Rookie Scale</a></li><li><a href="http://www.cbafaq.com/salarycap.htm" target="_blank">NBA Salary Cap FAQ</a></li></ul>
+</div>
+<div style="clear: both;"></div>
+</div>
+</li><li class="has-subnav">
+<a href="/nba/stats"  class='selected'>Stats</a>
+<div class="primary-nav-ddl">
+<ul class="primary-nav-col" style="width: 15em; float: left;">
+<li><a href="/nba/stats">Player Stats</a></li><li><a href="/nba/team-stats">Team Stats</a></li><li><a href="/nba/individual-games">Individual Games</a></li><li><a href="/nba/individual-seasons">Individual Seasons</a></li><li><a href="/nba/daily-leaders">Daily Leaders</a></li></ul>
+<ul class="primary-nav-col" style="width: 15em; float: left;">
+<li><a href="/nba/stats/2023/Averages/Qualified/points/All/desc/1/Playoffs">Playoff Stats</a></li><li><a href="/nba/stats/2023/Averages/Qualified/points/All/desc/1/Preseason">Preseason Stats</a></li><li><a href="/nba/stats/2023/Averages/Qualified/points/All/desc/1/Summer_League">Summer League Stats</a></li></ul>
+<ul class="primary-nav-col" style="width: 15em; float: left;">
+<li><a href="/nba/stats/2023/Advanced_Stats/Qualified/points/All/desc/1/Regular_Season">Advanced Stats</a></li><li><a href="/nba/stats/2023/Misc_Stats/Qualified/per/All/desc/1/Regular_Season">Misc. Stats</a></li></ul>
+<ul class="primary-nav-col" style="width: 15em; float: left;">
+<li><a href="/nba/team-stats/2023/Advanced_Stats/Team_Totals/Regular_Season/ediff/desc">Team Net Rating</a></li><li><a href="/nba/team-stats/2023/Advanced_Stats/Team_Totals/Regular_Season/ortg/desc">Offensive Efficiency</a></li><li><a href="/nba/team-stats/2023/Advanced_Stats/Team_Totals/Regular_Season/drtg/desc">Defensive Efficiency</a></li></ul>
+<div style="clear: both;"></div>
+</div>
+</li><li>
+<a href="/nba/scores" >Scores</a>
+<div class="primary-nav-ddl" style="width: 100%;">
+<div class="scoreboard">
+<table class="game unplayed" style="clear: none; width: 32%; float: left;" cellspacing="0" cellpadding="0">
+<tr>
+<th colspan="3">
+7:00 PM ET</th>
+</tr>
+<tr>
+<td class="game_details">
+<div class="team_name"><h3><a href="/nba/teams/Orlando-Magic/21/Rosters/Current/2023">Orlando</a></h3></div>
+<div class="team_record"><a href="/nba/teams/Orlando-Magic/21/Schedule/2023">(0-4)</a></div>
+</td>
+<td style="width: 4%"><h3>at</h3></td>
+<td class="game_details">
+<div class="team_name"><h3><a href="/nba/teams/Cleveland-Cavaliers/5/Rosters/Current/2023">Cleveland</a></h3></div>
+<div class="team_record"><a href="/nba/teams/Cleveland-Cavaliers/5/Schedule/2023">(2-1)</a></div>
+</td>
+</tr>
+<tr>
+<td class="game_details">
+</td>
+<td></td>
+<td class="game_details">
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<table width="100%" class="game_stats" cellspacing="0" cellpadding="0">
+<tr>
+<th colspan="5" class="top">
+<a href="/nba/preview/2022-10-26/Orlando-at-Cleveland/420918">Preview</a>
+&nbsp;
+<span style="float:right; font-weight: bold;">Regular Season</span>
+</th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="game unplayed" style="clear: none; width: 32%; float: left;" cellspacing="0" cellpadding="0">
+<tr>
+<th colspan="3">
+7:00 PM ET</th>
+</tr>
+<tr>
+<td class="game_details">
+<div class="team_name"><h3><a href="/nba/teams/Atlanta-Hawks/1/Rosters/Current/2023">Atlanta</a></h3></div>
+<div class="team_record"><a href="/nba/teams/Atlanta-Hawks/1/Schedule/2023">(2-1)</a></div>
+</td>
+<td style="width: 4%"><h3>at</h3></td>
+<td class="game_details">
+<div class="team_name"><h3><a href="/nba/teams/Detroit-Pistons/8/Rosters/Current/2023">Detroit</a></h3></div>
+<div class="team_record"><a href="/nba/teams/Detroit-Pistons/8/Schedule/2023">(1-3)</a></div>
+</td>
+</tr>
+<tr>
+<td class="game_details">
+</td>
+<td></td>
+<td class="game_details">
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<table width="100%" class="game_stats" cellspacing="0" cellpadding="0">
+<tr>
+<th colspan="5" class="top">
+<a href="/nba/preview/2022-10-26/Atlanta-at-Detroit/420919">Preview</a>
+&nbsp;
+<span style="float:right; font-weight: bold;">Regular Season</span>
+</th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="game unplayed" style="clear: none; width: 32%; float: left;" cellspacing="0" cellpadding="0">
+<tr>
+<th colspan="3">
+7:30 PM ET</th>
+</tr>
+<tr>
+<td class="game_details">
+<div class="team_name"><h3><a href="/nba/teams/Charlotte-Hornets/3/Rosters/Current/2023">Charlotte</a></h3></div>
+<div class="team_record"><a href="/nba/teams/Charlotte-Hornets/3/Schedule/2023">(2-1)</a></div>
+</td>
+<td style="width: 4%"><h3>at</h3></td>
+<td class="game_details">
+<div class="team_name"><h3><a href="/nba/teams/New-York-Knicks/20/Rosters/Current/2023">New York</a></h3></div>
+<div class="team_record"><a href="/nba/teams/New-York-Knicks/20/Schedule/2023">(2-1)</a></div>
+</td>
+</tr>
+<tr>
+<td class="game_details">
+</td>
+<td></td>
+<td class="game_details">
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<table width="100%" class="game_stats" cellspacing="0" cellpadding="0">
+<tr>
+<th colspan="5" class="top">
+<a href="/nba/preview/2022-10-26/Charlotte-at-New-York/420920">Preview</a>
+&nbsp;
+<span style="float:right; font-weight: bold;">Regular Season</span>
+</th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="game unplayed" style="clear: none; width: 32%; float: left;" cellspacing="0" cellpadding="0">
+<tr>
+<th colspan="3">
+7:30 PM ET</th>
+</tr>
+<tr>
+<td class="game_details">
+<div class="team_name"><h3><a href="/nba/teams/Philadelphia-Sixers/22/Rosters/Current/2023">Philadelphia</a></h3></div>
+<div class="team_record"><a href="/nba/teams/Philadelphia-Sixers/22/Schedule/2023">(1-3)</a></div>
+</td>
+<td style="width: 4%"><h3>at</h3></td>
+<td class="game_details">
+<div class="team_name"><h3><a href="/nba/teams/Toronto-Raptors/28/Rosters/Current/2023">Toronto</a></h3></div>
+<div class="team_record"><a href="/nba/teams/Toronto-Raptors/28/Schedule/2023">(2-2)</a></div>
+</td>
+</tr>
+<tr>
+<td class="game_details">
+</td>
+<td></td>
+<td class="game_details">
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<table width="100%" class="game_stats" cellspacing="0" cellpadding="0">
+<tr>
+<th colspan="5" class="top">
+<a href="/nba/preview/2022-10-26/Philadelphia-at-Toronto/420921">Preview</a>
+&nbsp;
+<span style="float:right; font-weight: bold;">Regular Season</span>
+</th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="game unplayed" style="clear: none; width: 32%; float: left;" cellspacing="0" cellpadding="0">
+<tr>
+<th colspan="3">
+7:30 PM ET</th>
+</tr>
+<tr>
+<td class="game_details">
+<div class="team_name"><h3><a href="/nba/teams/Brooklyn-Nets/38/Rosters/Current/2023">Brooklyn</a></h3></div>
+<div class="team_record"><a href="/nba/teams/Brooklyn-Nets/38/Schedule/2023">(1-2)</a></div>
+</td>
+<td style="width: 4%"><h3>at</h3></td>
+<td class="game_details">
+<div class="team_name"><h3><a href="/nba/teams/Milwaukee-Bucks/16/Rosters/Current/2023">Milwaukee</a></h3></div>
+<div class="team_record"><a href="/nba/teams/Milwaukee-Bucks/16/Schedule/2023">(2-0)</a></div>
+</td>
+</tr>
+<tr>
+<td class="game_details">
+</td>
+<td></td>
+<td class="game_details">
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<table width="100%" class="game_stats" cellspacing="0" cellpadding="0">
+<tr>
+<th colspan="5" class="top">
+<a href="/nba/preview/2022-10-26/Brooklyn-at-Milwaukee/420922">Preview</a>
+&nbsp;
+<span style="float:right; font-weight: bold;">Regular Season</span>
+</th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="game unplayed" style="clear: none; width: 32%; float: left;" cellspacing="0" cellpadding="0">
+<tr>
+<th colspan="3">
+8:00 PM ET</th>
+</tr>
+<tr>
+<td class="game_details">
+<div class="team_name"><h3><a href="/nba/teams/San-Antonio-Spurs/26/Rosters/Current/2023">San Antonio</a></h3></div>
+<div class="team_record"><a href="/nba/teams/San-Antonio-Spurs/26/Schedule/2023">(3-1)</a></div>
+</td>
+<td style="width: 4%"><h3>at</h3></td>
+<td class="game_details">
+<div class="team_name"><h3><a href="/nba/teams/Minnesota-Timberwolves/17/Rosters/Current/2023">Minnesota</a></h3></div>
+<div class="team_record"><a href="/nba/teams/Minnesota-Timberwolves/17/Schedule/2023">(2-2)</a></div>
+</td>
+</tr>
+<tr>
+<td class="game_details">
+</td>
+<td></td>
+<td class="game_details">
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<table width="100%" class="game_stats" cellspacing="0" cellpadding="0">
+<tr>
+<th colspan="5" class="top">
+<a href="/nba/preview/2022-10-26/San-Antonio-at-Minnesota/420924">Preview</a>
+&nbsp;
+<span style="float:right; font-weight: bold;">Regular Season</span>
+</th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div style="clear: both;"></div>
+</div>
+</div>
+</li><li>
+<a href="/tradechecker" >Trade Checker</a>
+<div class="primary-nav-ddl">
+<div id="tcwrapper">
+<h2 style="font-weight: bold;">RealGM Trade Checker&#8482;</h2>
+<ul id="checkerNav" class="threeStep" style="margin: 1em 0;">
+<li class="current"><em>Step 1: Select the Teams</em><span>Choose at least two teams from the menus below to start your trade.</span></li><li><em>Step 2: Choose the Players</em><span>Select the players you wish to trade from the rosters below.</span></li><li class="mainNavNoBg"><em>Step 3: Verify the Trade</em><span>Confirm that your trade proposal is valid according to the NBA collective bargaining agreement.</span></li></ul><form method="post" action="/tradechecker/select_player">
+<div class="selectwrap">
+<div class="bluehead" style="font-weight: bold;">Team One *</div>
+<div class="bluebody" style="font-weight: normal;">Select the first team from the drop down menu.<br><br>
+<select name="team1">
+<option></option>
+<option value="1" selected>Atlanta</option>
+<option value="2">Boston</option>
+<option value="38">Brooklyn</option>
+<option value="3">Charlotte</option>
+<option value="4">Chicago</option>
+<option value="5">Cleveland</option>
+<option value="6">Dallas</option>
+<option value="7">Denver</option>
+<option value="8">Detroit</option>
+<option value="9">Golden State</option>
+<option value="10">Houston</option>
+<option value="11">Indiana</option>
+<option value="12">L.A. Clippers</option>
+<option value="13">L.A. Lakers</option>
+<option value="14">Memphis</option>
+<option value="15">Miami</option>
+<option value="16">Milwaukee</option>
+<option value="17">Minnesota</option>
+<option value="19">New Orleans</option>
+<option value="20">New York</option>
+<option value="33">Oklahoma City</option>
+<option value="21">Orlando</option>
+<option value="22">Philadelphia</option>
+<option value="23">Phoenix</option>
+<option value="24">Portland</option>
+<option value="25">Sacramento</option>
+<option value="26">San Antonio</option>
+<option value="28">Toronto</option>
+<option value="29">Utah</option>
+<option value="30">Washington</option>
+</select>
+</div>
+</div>
+<div class="selectwrap">
+<div class="bluehead">Team Two *</div>
+<div class="bluebody">Select the second team from the drop down menu.<br><br>
+<select name="team2">
+<option></option>
+<option value="1">Atlanta</option>
+<option value="2" selected>Boston</option>
+<option value="38">Brooklyn</option>
+<option value="3">Charlotte</option>
+<option value="4">Chicago</option>
+<option value="5">Cleveland</option>
+<option value="6">Dallas</option>
+<option value="7">Denver</option>
+<option value="8">Detroit</option>
+<option value="9">Golden State</option>
+<option value="10">Houston</option>
+<option value="11">Indiana</option>
+<option value="12">L.A. Clippers</option>
+<option value="13">L.A. Lakers</option>
+<option value="14">Memphis</option>
+<option value="15">Miami</option>
+<option value="16">Milwaukee</option>
+<option value="17">Minnesota</option>
+<option value="19">New Orleans</option>
+<option value="20">New York</option>
+<option value="33">Oklahoma City</option>
+<option value="21">Orlando</option>
+<option value="22">Philadelphia</option>
+<option value="23">Phoenix</option>
+<option value="24">Portland</option>
+<option value="25">Sacramento</option>
+<option value="26">San Antonio</option>
+<option value="28">Toronto</option>
+<option value="29">Utah</option>
+<option value="30">Washington</option>
+</select>
+</div>
+</div>
+<div class="selectwrap">
+<div class="bluehead">Team Three</div>
+<div class="bluebody">Select the third team from the drop down menu.<br><br>
+<select name="team3">
+<option></option>
+<option value="1">Atlanta</option>
+<option value="2">Boston</option>
+<option value="38">Brooklyn</option>
+<option value="3">Charlotte</option>
+<option value="4">Chicago</option>
+<option value="5">Cleveland</option>
+<option value="6">Dallas</option>
+<option value="7">Denver</option>
+<option value="8">Detroit</option>
+<option value="9">Golden State</option>
+<option value="10">Houston</option>
+<option value="11">Indiana</option>
+<option value="12">L.A. Clippers</option>
+<option value="13">L.A. Lakers</option>
+<option value="14">Memphis</option>
+<option value="15">Miami</option>
+<option value="16">Milwaukee</option>
+<option value="17">Minnesota</option>
+<option value="19">New Orleans</option>
+<option value="20">New York</option>
+<option value="33">Oklahoma City</option>
+<option value="21">Orlando</option>
+<option value="22">Philadelphia</option>
+<option value="23">Phoenix</option>
+<option value="24">Portland</option>
+<option value="25">Sacramento</option>
+<option value="26">San Antonio</option>
+<option value="28">Toronto</option>
+<option value="29">Utah</option>
+<option value="30">Washington</option>
+</select>
+</div>
+</div>
+<div class="selectwrap">
+<div class="bluehead">Team Four</div>
+<div class="bluebody">Select the fourth team from the drop down menu.<br><br>
+<select name="team4">
+<option></option>
+<option value="1">Atlanta</option>
+<option value="2">Boston</option>
+<option value="38">Brooklyn</option>
+<option value="3">Charlotte</option>
+<option value="4">Chicago</option>
+<option value="5">Cleveland</option>
+<option value="6">Dallas</option>
+<option value="7">Denver</option>
+<option value="8">Detroit</option>
+<option value="9">Golden State</option>
+<option value="10">Houston</option>
+<option value="11">Indiana</option>
+<option value="12">L.A. Clippers</option>
+<option value="13">L.A. Lakers</option>
+<option value="14">Memphis</option>
+<option value="15">Miami</option>
+<option value="16">Milwaukee</option>
+<option value="17">Minnesota</option>
+<option value="19">New Orleans</option>
+<option value="20">New York</option>
+<option value="33">Oklahoma City</option>
+<option value="21">Orlando</option>
+<option value="22">Philadelphia</option>
+<option value="23">Phoenix</option>
+<option value="24">Portland</option>
+<option value="25">Sacramento</option>
+<option value="26">San Antonio</option>
+<option value="28">Toronto</option>
+<option value="29">Utah</option>
+<option value="30">Washington</option>
+</select>
+</div>
+</div>
+<div class="buttons"><input type="submit" value="Continue" class="pushbutton"></div>
+</form>
+<div class="clearfloat">&nbsp;</div>
+</div>
+</div>
+</li><li>
+<a href="/betting">Betting</a>
+<div class="primary-nav-ddl">
+<div style="font-weight: normal; column-count: 3">
+<div class="content">
+<p><strong><u>Online Sportsbooks</u></strong></p>
+<ul>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/betmgm" target="_blank" rel="noopener">BetMGM Sportsbook Bonus Code</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/caesars" target="_blank" rel="noopener">Caesars Sportsbook Promo Code</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/draftkings" target="_blank" rel="noopener">DraftKings Sportsbook Promo Code</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/fanduel" target="_blank" rel="noopener">FanDuel Sportsbook Promo Code</a></li>
+<li><a href="https://basketball.realgm.com/analysis/267619/SI-Sportsbook-Promo--Bet-$5-win-$100-in-Free-Bets-2022" target="_blank" rel="noopener">Sports Illustrated Sportsbook Promo Code</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/superbook" target="_blank" rel="noopener">SuperBook Sportsbook Promo Code</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/tipico" target="_blank" rel="noopener">Tipico Sportsbook Promo Code</a></li>
+</ul>
+</div>
+<div class="content">
+<p><strong><u>Arizona Sportsbooks</u></strong></p>
+<ul>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/arizona" target="_blank" rel="noopener">Arizona Online Sports Betting and Promo Codes</a></li>
+</ul>
+<p><strong><u>Colorado Sportsbooks</u></strong></p>
+<ul>
+<li><a href="https://basketball.realgm.com/analysis/267658/Betsafe-Colorado-Bonus-Code-100-perc-Deposit-Match-up-to-$500" target="_blank" rel="noopener">Betsafe Colorado Bonus Code</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/colorado/betmgm" target="_blank" rel="noopener">BetMGM Colorado Bonus Code</a></li>
+</ul>
+<p><strong><u>Illinois Sportsbooks</u></strong></p>
+<ul>
+<li><a href="https://football.realgm.com/wiretap/47374/Illinois-Sports-Betting-Legal-Online-Sports-Betting-in-IL" target="_blank" rel="noopener">Illinois Online Sports Betting and Promo Codes</a></li>
+</ul>
+<p><strong><u>Kansas Sportsbooks</u></strong></p>
+<ul>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/kansas/promo-codes" target="_blank" rel="noopener">Kansas Sports Betting Promo Codes &amp; Bonuses</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/kansas/betmgm" target="_blank" rel="noopener">BetMGM Kansas Bonus Code</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/kansas/caesars" target="_blank" rel="noopener">Caesars Sportsbook Kansas Promo Code</a></li>
+</ul>
+<p><strong><u>Louisiana Sportsbooks</u></strong></p>
+<ul>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/louisiana" target="_blank" rel="noopener">Louisiana Online Sports Betting and Promo Codes</a></li>
+</ul>
+<p><strong><u>Maryland Sportsbooks</u></strong></p>
+<ul>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/maryland/promo-codes" target="_blank" rel="noopener">Maryland Sports Betting Promo Codes and Bonuses</a></li>
+</ul>
+<p><strong><u>Massachusetts Sportsbooks</u></strong></p>
+<ul>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/massachusetts/betmgm" target="_blank" rel="noopener">BetMGM Sportsbook Massachusetts Promo Code</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/massachusetts/caesars" target="_blank" rel="noopener">Caesars Sportsbook Massachusetts Promo Code</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/massachusetts/promo-codes" target="_blank" rel="noopener">Massachusetts Sportsbook Promo Codes &amp; Bonuses</a></li>
+</ul>
+<p><strong><u>Michigan Sportsbooks</u></strong></p>
+<ul>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/michigan" target="_blank" rel="noopener">Michigan Sports Betting and Sportsbook Promo Codes</a></li>
+</ul>
+<p><strong><u>New Jersey Sportsbooks</u></strong></p>
+<ul>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/new-jersey/betmgm" target="_blank" rel="noopener">BetMGM New Jersey Bonus Code</a></li>
+</ul>
+<p><strong><u>New York Sportsbooks</u></strong></p>
+<ul>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/new-york" target="_blank" rel="noopener">New York Sports Betting</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/new-york/promo-codes" target="_blank" rel="noopener">New York Sportsbook Promo Codes and Betting Bonuses</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/new-york/betrivers" target="_blank" rel="noopener">BetRivers New York Promo Code</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/new-york/betmgm" target="_blank" rel="noopener">BetMGM New York Promo Code</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/new-york/caesars" target="_blank" rel="noopener">Caesars Sportsbook New York Promo Code</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/new-york/draftkings" target="_blank" rel="noopener">DraftKings New York Promo Code</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/new-york/fanduel" target="_blank" rel="noopener">FanDuel New York Promo Code</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/new-york/wynnbet" target="_blank" rel="noopener">WynnBET New York Promo Code</a></li>
+</ul>
+<p><strong><u>Ohio Sportsbooks</u></strong></p>
+<ul>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ohio/promo-codes" target="_blank" rel="noopener">Ohio Sports Betting Promo Codes and Bonuses</a></li>
+</ul>
+<p><strong><u>Ontario Sportsbooks</u></strong></p>
+<ul>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ontario" target="_blank" rel="noopener">Ontario Sports Betting</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ontario/betmgm" target="_blank" rel="noopener">BetMGM Sportsbook Ontario</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ontario/betrivers" target="_blank" rel="noopener">BetRivers Sportsbook Ontario</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ontario/888" target="_blank" rel="noopener">888 Sportsbook Ontario</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ontario/bet365" target="_blank" rel="noopener">Bet365 Sportsbook Ontario</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ontario/tonybet" target="_blank" rel="noopener">TonyBet Sportsbook Ontario</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ontario/thescore" target="_blank" rel="noopener">The Score BET Sportsbook Ontario</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ontario/coolbet" target="_blank" rel="noopener">Coolbet Sportsbook Ontario</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ontario/caesars" target="_blank" rel="noopener">Caesars Sportsbook Ontario</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ontario/pointsbet" target="_blank" rel="noopener">PointsBet Sportsbook Ontario</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ontario/wynnbet" target="_blank" rel="noopener">WynnBET Sportsbook Ontario</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ontario/twinspires" target="_blank" rel="noopener">TwinSpires Sportsbook Ontario</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ontario/powerplay" target="_blank" rel="noopener">PowerPlay Sportsbook Ontario</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ontario/sports-interaction" target="_blank" rel="noopener">Sports Interaction Sportsbook Ontario</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ontario/unibet" target="_blank" rel="noopener">Unibet Sportsbook Sportsbook Ontario</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ontario/draftkings" target="_blank" rel="noopener">DraftKings Sportsbook Ontario Promo Code</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ontario/betvictor" target="_blank" rel="noopener">BetVictor Sportsbook Ontario</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ontario/caesars" target="_blank" rel="noopener">Caesars Sportsbook Ontario</a></li>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ontario/fanduel" target="_blank" rel="noopener">FanDuel Sportsbook Ontario</a></li>
+</ul>
+</div>
+<div class="content">
+<p><strong><u>Ontario Online Casinos</u></strong></p>
+<ul>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/ontario/best-online-casinos" target="_blank" rel="noopener">Online Casinos Ontario</a></li>
+</ul>
+</div>
+<div class="content">
+<p><strong><u>Pennsylvania Sportsbooks</u></strong></p>
+<ul>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/pennsylvania" target="_blank" rel="noopener">Pennsylvania Sports Betting and Sportsbook Bonuses</a></li>
+</ul>
+<p><strong><u>Tennessee Sportsbooks</u></strong></p>
+<ul>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/tennessee/betmgm" target="_blank" rel="noopener">BetMGM Tennessee Bonus Code</a></li>
+</ul>
+<p><strong><u>Virginia Sportsbooks</u></strong></p>
+<ul>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/virginia/betmgm" target="_blank" rel="noopener">BetMGM Virginia Bonus Code</a></li>
+</ul>
+<p><strong><u>West Virginia Sportsbooks</u></strong></p>
+<ul>
+<li><a href="https://basketball.realgm.com/betting/sportsbooks/west-virginia/betmgm" target="_blank" rel="noopener">BetMGM West Virginia Bonus Code</a></li>
+</ul>
+<p><strong><u>NFL Betting</u></strong></p>
+<ul>
+<li><a href="https://football.realgm.com/betting/sportsbooks/nfl-odds" target="_blank" rel="noopener">NFL Odds for the 2022-23 Season: The Best NFL Betting Odds</a></li>
+<li><a href="https://football.realgm.com/betting/sportsbooks/nfl-prop-bets" target="_blank" rel="noopener">NFL Prop Bets: Top NFL Player Props for Betting</a></li>
+<li><a href="https://football.realgm.com/betting/sportsbooks/super-bowl-odds" target="_blank" rel="noopener">Super Bowl Odds 2023 - Best Odds To Win Super Bowl 57</a></li>
+</ul>
+</div></div>
+<div style="clear: both;"></div>
+</div>
+</li><li><a href="https://www.vividseats.com/nba-basketball/?wsUser=958" target="_blank">Tickets</a></li>
+</ul>
+</nav>
+</div>
+</div>
+            
+         </div>
+         
+         <div id="header_helper"></div>
+
+         <div class="main-container">
+            
+            <div class="main wrapper clearfix container" style="position: relative;">
+            
+               <div id="left_sidebar_ad">
+                  <!-- Tag ID: realgm_siderail_3 -->
+<div align="center" data-freestar-ad="__300x600" id="realgm_siderail_3">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "realgm_siderail_3", slotId: "realgm_siderail_3" });
+  </script>
+</div>               </div><h2 class="page_title">Historical NBA Stats
+</h2>
+<div class="page-navigation open">
+<div class="clearfix nav-title">
+<a href='javascript:void(0);' onclick='togglePageNavigation();'>Change settings?</a></div>
+<div class="page-nav-option clearfix">
+<label>Season:</label>
+<select onChange="open_network(this.options[this.selectedIndex].value)" class="ddl">
+<option value='/nba/stats/2023/Averages/Qualified/points/All/desc/1/Regular_Season' >2022-2023</option>
+<option value='/nba/stats/2022/Averages/Qualified/points/All/desc/1/Regular_Season' >2021-2022</option>
+<option value='/nba/stats/2021/Averages/Qualified/points/All/desc/1/Regular_Season' >2020-2021</option>
+<option value='/nba/stats/2020/Averages/Qualified/points/All/desc/1/Regular_Season' >2019-2020</option>
+<option value='/nba/stats/2019/Averages/Qualified/points/All/desc/1/Regular_Season' >2018-2019</option>
+<option value='/nba/stats/2018/Averages/Qualified/points/All/desc/1/Regular_Season' >2017-2018</option>
+<option value='/nba/stats/2017/Averages/Qualified/points/All/desc/1/Regular_Season' >2016-2017</option>
+<option value='/nba/stats/2016/Averages/Qualified/points/All/desc/1/Regular_Season' >2015-2016</option>
+<option value='/nba/stats/2015/Averages/Qualified/points/All/desc/1/Regular_Season' >2014-2015</option>
+<option value='/nba/stats/2014/Averages/Qualified/points/All/desc/1/Regular_Season' >2013-2014</option>
+<option value='/nba/stats/2013/Averages/Qualified/points/All/desc/1/Regular_Season' >2012-2013</option>
+<option value='/nba/stats/2012/Averages/Qualified/points/All/desc/1/Regular_Season' >2011-2012</option>
+<option value='/nba/stats/2011/Averages/Qualified/points/All/desc/1/Regular_Season' >2010-2011</option>
+<option value='/nba/stats/2010/Averages/Qualified/points/All/desc/1/Regular_Season' >2009-2010</option>
+<option value='/nba/stats/2009/Averages/Qualified/points/All/desc/1/Regular_Season' >2008-2009</option>
+<option value='/nba/stats/2008/Averages/Qualified/points/All/desc/1/Regular_Season' >2007-2008</option>
+<option value='/nba/stats/2007/Averages/Qualified/points/All/desc/1/Regular_Season' >2006-2007</option>
+<option value='/nba/stats/2006/Averages/Qualified/points/All/desc/1/Regular_Season' >2005-2006</option>
+<option value='/nba/stats/2005/Averages/Qualified/points/All/desc/1/Regular_Season' >2004-2005</option>
+<option value='/nba/stats/2004/Averages/Qualified/points/All/desc/1/Regular_Season' >2003-2004</option>
+<option value='/nba/stats/2003/Averages/Qualified/points/All/desc/1/Regular_Season' >2002-2003</option>
+<option value='/nba/stats/2002/Averages/Qualified/points/All/desc/1/Regular_Season' >2001-2002</option>
+<option value='/nba/stats/2001/Averages/Qualified/points/All/desc/1/Regular_Season' >2000-2001</option>
+<option value='/nba/stats/2000/Averages/Qualified/points/All/desc/1/Regular_Season' >1999-2000</option>
+<option value='/nba/stats/1999/Averages/Qualified/points/All/desc/1/Regular_Season' >1998-1999</option>
+<option value='/nba/stats/1998/Averages/Qualified/points/All/desc/1/Regular_Season' >1997-1998</option>
+<option value='/nba/stats/1997/Averages/Qualified/points/All/desc/1/Regular_Season' >1996-1997</option>
+<option value='/nba/stats/1996/Averages/Qualified/points/All/desc/1/Regular_Season' >1995-1996</option>
+<option value='/nba/stats/1995/Averages/Qualified/points/All/desc/1/Regular_Season' >1994-1995</option>
+<option value='/nba/stats/1994/Averages/Qualified/points/All/desc/1/Regular_Season' >1993-1994</option>
+<option value='/nba/stats/1993/Averages/Qualified/points/All/desc/1/Regular_Season' >1992-1993</option>
+<option value='/nba/stats/1992/Averages/Qualified/points/All/desc/1/Regular_Season' >1991-1992</option>
+<option value='/nba/stats/1991/Averages/Qualified/points/All/desc/1/Regular_Season' >1990-1991</option>
+<option value='/nba/stats/1990/Averages/Qualified/points/All/desc/1/Regular_Season' >1989-1990</option>
+<option value='/nba/stats/1989/Averages/Qualified/points/All/desc/1/Regular_Season' >1988-1989</option>
+<option value='/nba/stats/1988/Averages/Qualified/points/All/desc/1/Regular_Season' >1987-1988</option>
+<option value='/nba/stats/1987/Averages/Qualified/points/All/desc/1/Regular_Season' >1986-1987</option>
+<option value='/nba/stats/1986/Averages/Qualified/points/All/desc/1/Regular_Season' >1985-1986</option>
+<option value='/nba/stats/1985/Averages/Qualified/points/All/desc/1/Regular_Season' >1984-1985</option>
+<option value='/nba/stats/1984/Averages/Qualified/points/All/desc/1/Regular_Season' >1983-1984</option>
+<option value='/nba/stats/1983/Averages/Qualified/points/All/desc/1/Regular_Season' >1982-1983</option>
+<option value='/nba/stats/1982/Averages/Qualified/points/All/desc/1/Regular_Season' >1981-1982</option>
+<option value='/nba/stats/1981/Averages/Qualified/points/All/desc/1/Regular_Season' >1980-1981</option>
+<option value='/nba/stats/1980/Averages/Qualified/points/All/desc/1/Regular_Season' >1979-1980</option>
+<option value='/nba/stats/1979/Averages/Qualified/points/All/desc/1/Regular_Season' >1978-1979</option>
+<option value='/nba/stats/1978/Averages/Qualified/points/All/desc/1/Regular_Season' >1977-1978</option>
+<option value='/nba/stats/1977/Averages/Qualified/points/All/desc/1/Regular_Season' >1976-1977</option>
+<option value='/nba/stats/1976/Averages/Qualified/points/All/desc/1/Regular_Season' >1975-1976</option>
+<option value='/nba/stats/1975/Averages/Qualified/points/All/desc/1/Regular_Season' >1974-1975</option>
+<option value='/nba/stats/1974/Averages/Qualified/points/All/desc/1/Regular_Season' >1973-1974</option>
+<option value='/nba/stats/1973/Averages/Qualified/points/All/desc/1/Regular_Season' >1972-1973</option>
+<option value='/nba/stats/1972/Averages/Qualified/points/All/desc/1/Regular_Season' >1971-1972</option>
+<option value='/nba/stats/1971/Averages/Qualified/points/All/desc/1/Regular_Season' >1970-1971</option>
+<option value='/nba/stats/1970/Averages/Qualified/points/All/desc/1/Regular_Season' >1969-1970</option>
+<option value='/nba/stats/1969/Averages/Qualified/points/All/desc/1/Regular_Season' >1968-1969</option>
+<option value='/nba/stats/1968/Averages/Qualified/points/All/desc/1/Regular_Season' >1967-1968</option>
+<option value='/nba/stats/1967/Averages/Qualified/points/All/desc/1/Regular_Season' >1966-1967</option>
+<option value='/nba/stats/1966/Averages/Qualified/points/All/desc/1/Regular_Season' >1965-1966</option>
+<option value='/nba/stats/1965/Averages/Qualified/points/All/desc/1/Regular_Season' >1964-1965</option>
+<option value='/nba/stats/1964/Averages/Qualified/points/All/desc/1/Regular_Season' >1963-1964</option>
+<option value='/nba/stats/1963/Averages/Qualified/points/All/desc/1/Regular_Season' >1962-1963</option>
+<option value='/nba/stats/1962/Averages/Qualified/points/All/desc/1/Regular_Season' >1961-1962</option>
+<option value='/nba/stats/1961/Averages/Qualified/points/All/desc/1/Regular_Season' >1960-1961</option>
+<option value='/nba/stats/1960/Averages/Qualified/points/All/desc/1/Regular_Season' >1959-1960</option>
+<option value='/nba/stats/1959/Averages/Qualified/points/All/desc/1/Regular_Season' >1958-1959</option>
+<option value='/nba/stats/1958/Averages/Qualified/points/All/desc/1/Regular_Season' >1957-1958</option>
+<option value='/nba/stats/1957/Averages/Qualified/points/All/desc/1/Regular_Season' >1956-1957</option>
+<option value='/nba/stats/1956/Averages/Qualified/points/All/desc/1/Regular_Season' >1955-1956</option>
+<option value='/nba/stats/1955/Averages/Qualified/points/All/desc/1/Regular_Season' >1954-1955</option>
+<option value='/nba/stats/1954/Averages/Qualified/points/All/desc/1/Regular_Season' >1953-1954</option>
+<option value='/nba/stats/1953/Averages/Qualified/points/All/desc/1/Regular_Season' >1952-1953</option>
+<option value='/nba/stats/1952/Averages/Qualified/points/All/desc/1/Regular_Season' >1951-1952</option>
+<option value='/nba/stats/1951/Averages/Qualified/points/All/desc/1/Regular_Season' >1950-1951</option>
+<option value='/nba/stats/1950/Averages/Qualified/points/All/desc/1/Regular_Season' >1949-1950</option>
+<option value='/nba/stats/1949/Averages/Qualified/points/All/desc/1/Regular_Season' >1948-1949</option>
+<option value='/nba/stats/1948/Averages/Qualified/points/All/desc/1/Regular_Season' >1947-1948</option>
+<option value='/nba/stats/1947/Averages/Qualified/points/All/desc/1/Regular_Season' >1946-1947</option>
+<option value='/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season' selected='selected'>Historical</option><option value='/nba/stats/Historical_Active/Averages/Qualified/points/All/desc/1/Regular_Season' >Historical Active</option></select></div>
+<div class="page-nav-option clearfix">
+<label>Team:</label>
+<select onChange="open_network(this.options[this.selectedIndex].value)" class="ddl">
+<option value='/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Entire NBA</option>
+<option  value='/nba/teams/Atlanta-Hawks/1/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Atlanta Hawks</option>
+<option  value='/nba/teams/Boston-Celtics/2/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Boston Celtics</option>
+<option  value='/nba/teams/Brooklyn-Nets/38/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Brooklyn Nets</option>
+<option  value='/nba/teams/Charlotte-Hornets/3/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Charlotte Hornets</option>
+<option  value='/nba/teams/Chicago-Bulls/4/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Chicago Bulls</option>
+<option  value='/nba/teams/Cleveland-Cavaliers/5/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Cleveland Cavaliers</option>
+<option  value='/nba/teams/Dallas-Mavericks/6/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Dallas Mavericks</option>
+<option  value='/nba/teams/Denver-Nuggets/7/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Denver Nuggets</option>
+<option  value='/nba/teams/Detroit-Pistons/8/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Detroit Pistons</option>
+<option  value='/nba/teams/Golden-State-Warriors/9/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Golden State Warriors</option>
+<option  value='/nba/teams/Houston-Rockets/10/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Houston Rockets</option>
+<option  value='/nba/teams/Indiana-Pacers/11/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Indiana Pacers</option>
+<option  value='/nba/teams/Los-Angeles-Clippers/12/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Los Angeles Clippers</option>
+<option  value='/nba/teams/Los-Angeles-Lakers/13/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Los Angeles Lakers</option>
+<option  value='/nba/teams/Memphis-Grizzlies/14/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Memphis Grizzlies</option>
+<option  value='/nba/teams/Miami-Heat/15/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Miami Heat</option>
+<option  value='/nba/teams/Milwaukee-Bucks/16/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Milwaukee Bucks</option>
+<option  value='/nba/teams/Minnesota-Timberwolves/17/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Minnesota Timberwolves</option>
+<option  value='/nba/teams/New-Orleans-Pelicans/19/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>New Orleans Pelicans</option>
+<option  value='/nba/teams/New-York-Knicks/20/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>New York Knicks</option>
+<option  value='/nba/teams/Oklahoma-City-Thunder/33/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Oklahoma City Thunder</option>
+<option  value='/nba/teams/Orlando-Magic/21/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Orlando Magic</option>
+<option  value='/nba/teams/Philadelphia-Sixers/22/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Philadelphia Sixers</option>
+<option  value='/nba/teams/Phoenix-Suns/23/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Phoenix Suns</option>
+<option  value='/nba/teams/Portland-Trail-Blazers/24/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Portland Trail Blazers</option>
+<option  value='/nba/teams/Sacramento-Kings/25/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Sacramento Kings</option>
+<option  value='/nba/teams/San-Antonio-Spurs/26/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>San Antonio Spurs</option>
+<option  value='/nba/teams/Toronto-Raptors/28/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Toronto Raptors</option>
+<option  value='/nba/teams/Utah-Jazz/29/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Utah Jazz</option>
+<option  value='/nba/teams/Washington-Wizards/30/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season'>Washington Wizards</option>
+</select></div>
+<div class="page-nav-option clearfix">
+<label>Stat Type:</label>
+<select onChange="open_network(this.options[this.selectedIndex].value)" class="ddl">
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season" selected="selected">Averages</option>
+<option value="/nba/stats/Historical/Totals/Qualified/points/All/desc/1/Regular_Season" >Totals</option>
+<option value="/nba/stats/Historical/Per_48/Qualified/points/All/desc/1/Regular_Season" >Per 48</option>
+<option value="/nba/stats/Historical/Per_40/Qualified/points/All/desc/1/Regular_Season" >Per 40</option>
+<option value="/nba/stats/Historical/Per_36/Qualified/points/All/desc/1/Regular_Season" >Per 36</option>
+<option value="/nba/stats/Historical/Per_Minute/Qualified/points/All/desc/1/Regular_Season" >Per Minute</option>
+<option value="/nba/stats/Historical/Minute_Per/Qualified/points/All/desc/1/Regular_Season" >Minute Per</option>
+<option value="/nba/stats/Historical/Misc_Stats/Qualified/points/All/desc/1/Regular_Season" >Misc. Stats</option>
+<option value="/nba/stats/Historical/Advanced_Stats/Qualified/points/All/desc/1/Regular_Season" >Advanced Stats</option>
+</select></div>
+<div class="page-nav-option clearfix">
+<label>Games:</label>
+<select onChange="open_network(this.options[this.selectedIndex].value)" class="ddl">
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season" selected="selected">Regular Season</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Playoffs" >Playoffs</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Summer_League" >Summer League</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Preseason" >Preseason</option>
+</select></div>
+<div class="page-nav-option clearfix">
+<label>Stat Split:</label>
+<select onChange="open_network(this.options[this.selectedIndex].value)" class="ddl">
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season">Entire Season</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Home">Home</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Away">Away</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Wins">Wins</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Losses">Losses</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Last_5_Games">Last 5 Games</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Last_10_Games">Last 10 Games</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Starting_Lineup">Starting Lineup</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/In_Rotation">In Rotation</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Limited_Playing_Time">Limited Playing Time</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Opponent_Bottom_10_Defense">Opponent Bottom 10 Defense</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Opponent_Bottom_10_Record">Opponent Bottom 10 Record</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Opponent_Top_10_Defense">Opponent Top 10 Defense</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Opponent_Top_10_Record">Opponent Top 10 Record</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Eastern_Conference">Eastern Conference</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Western_Conference">Western Conference</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Atlantic_Division">Atlantic Division</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Central_Division">Central Division</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Northwest_Division">Northwest Division</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Pacific_Division">Pacific Division</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Southeast_Division">Southeast Division</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Southwest_Division">Southwest Division</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Post-All-Star_Game">Post-All-Star Game</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Pre-All-Star_Game">Pre-All-Star Game</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/October">October</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/November">November</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/December">December</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/January">January</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/February">February</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/March">March</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/April">April</option>
+</select></div>
+<div class="page-nav-option clearfix">
+<label>Position:</label>
+<select onChange="open_network(this.options[this.selectedIndex].value)" class="ddl">
+<option value="/nba/stats/Historical/Averages/Qualified/points/All/desc/1/Regular_Season" selected="selected">All Positions</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/PG/desc/1/Regular_Season" >PG</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/SG/desc/1/Regular_Season" >SG</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/SF/desc/1/Regular_Season" >SF</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/PF/desc/1/Regular_Season" >PF</option>
+<option value="/nba/stats/Historical/Averages/Qualified/points/C/desc/1/Regular_Season" >C</option>
+</select></div>
+<div class="page-nav-option clearfix">
+<input type="checkbox" id="qualified" onclick="open_network('/nba/stats/Historical/Averages/All/points/All/desc/1/Regular_Season')" checked="checked"><label for="qualified" style="float:none; width: auto; margin-left:0.5em;">Qualified</label></div>
+<div class="page-nav-option clearfix">
+<input type="checkbox" id="rookies" onclick="changePositions('rookies')" ><label for="rookies" style="float:none; width: auto; margin-left:0.5em;">Rookies</label></div>
+<div class="page-nav-option clearfix">
+<input type="checkbox" id="pace_adjustment" onclick="changePositions('pace_adjustment')" ><label for="pace_adjustment" style="float:none; width: auto; margin-left:0.5em;">Pace Adjusted</label></div>
+<div class="page-nav-option clearfix">
+<a href="/info/glossary" target="_blank">Stats Legend</a></div>
+</div>
+<h2>
+Historical NBA Regular Season Leaders</h2>
+<p class='footnote'>* Historical stats listed herein range from the 1946-1947 season through to the current season only.</p><div class="overall-leader">
+<div class="category-name">Points</div>
+<div class="category-container" style="background-image: url('/images/nba/4.2/profiles/photos/2006/Jordan_Michael_nba.jpg'); background-repeat: no-repeat;"><div class="player-container clearfix"><span class="player-name"><a href="/player/Michael-Jordan/Summary/1192">Michael Jordan</a></span><span class="team-name"></span><span class="stat">30.1</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Wilt-Chamberlain/Summary/65950">Wilt Chamberlain</a></span><span class="team-name"></span><span class="stat">30.1</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Elgin-Baylor/Summary/65978">Elgin Baylor</a></span><span class="team-name"></span><span class="stat">27.4</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Kevin-Durant/Summary/34">Kevin Durant</a></span><span class="team-name"></span><span class="stat">27.2</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/LeBron-James/Summary/250">LeBron James</a></span><span class="team-name"></span><span class="stat">27.1</span></div></div></div><div class="overall-leader">
+<div class="category-name">Rebounds</div>
+<div class="category-container" style="background-image: url('/images/nba/4.2/profiles/photos/2006/Chamberlain_Wilt.jpg'); background-repeat: no-repeat;"><div class="player-container clearfix"><span class="player-name"><a href="/player/Wilt-Chamberlain/Summary/65950">Wilt Chamberlain</a></span><span class="team-name"></span><span class="stat">22.9</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Bill-Russell/Summary/65961">Bill Russell</a></span><span class="team-name"></span><span class="stat">22.5</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Maurice-Stokes/Summary/66201">Maurice Stokes</a></span><span class="team-name"></span><span class="stat">17.3</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Bob-Pettit/Summary/65977">Bob Pettit</a></span><span class="team-name"></span><span class="stat">16.2</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Jerry-Lucas/Summary/66071">Jerry Lucas</a></span><span class="team-name"></span><span class="stat">15.6</span></div></div></div><div class="overall-leader">
+<div class="category-name">Assists</div>
+<div class="category-container" style="background-image: url('/images/nba/4.2/profiles/photos/2006/Johnson_Magic.jpg'); background-repeat: no-repeat;"><div class="player-container clearfix"><span class="player-name"><a href="/player/Magic-Johnson/Summary/4618">Magic Johnson</a></span><span class="team-name"></span><span class="stat">11.2</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/John-Stockton/Summary/1237">John Stockton</a></span><span class="team-name"></span><span class="stat">10.5</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Oscar-Robertson/Summary/65962">Oscar Robertson</a></span><span class="team-name"></span><span class="stat">9.5</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Chris-Paul/Summary/61">Chris Paul</a></span><span class="team-name"></span><span class="stat">9.5</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Isiah-Thomas/Summary/4612">Isiah Thomas</a></span><span class="team-name"></span><span class="stat">9.3</span></div></div></div><div class="overall-leader">
+<div class="category-name">Blocks</div>
+<div class="category-container" style="background-image: url('/images/nba/4.2/profiles/photos/2006/Eaton_Mark.jpg'); background-repeat: no-repeat;"><div class="player-container clearfix"><span class="player-name"><a href="/player/Mark-Eaton/Summary/4625">Mark Eaton</a></span><span class="team-name"></span><span class="stat">3.5</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Manute-Bol/Summary/4646">Manute Bol</a></span><span class="team-name"></span><span class="stat">3.3</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Hakeem-Olajuwon/Summary/1177">Hakeem Olajuwon</a></span><span class="team-name"></span><span class="stat">3.1</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/David-Robinson/Summary/1234">David Robinson</a></span><span class="team-name"></span><span class="stat">3.0</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Elmore-Smith/Summary/65941">Elmore Smith</a></span><span class="team-name"></span><span class="stat">2.9</span></div></div></div><div class="overall-leader">
+<div class="category-name">Steals</div>
+<div class="category-container" style="background-image: url('/images/nba/4.2/profiles/photos/2006/Robertson_Alvin.jpg'); background-repeat: no-repeat;"><div class="player-container clearfix"><span class="player-name"><a href="/player/Alvin-Robertson/Summary/4606">Alvin Robertson</a></span><span class="team-name"></span><span class="stat">2.7</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Micheal-Ray-Richardson/Summary/4662">Micheal Ray Richardson</a></span><span class="team-name"></span><span class="stat">2.6</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Jerry-West/Summary/65953">Jerry West</a></span><span class="team-name"></span><span class="stat">2.6</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Michael-Jordan/Summary/1192">Michael Jordan</a></span><span class="team-name"></span><span class="stat">2.3</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Mookie-Blaylock/Summary/1213">Mookie Blaylock</a></span><span class="team-name"></span><span class="stat">2.3</span></div></div></div><div class="overall-leader">
+<div class="category-name">Minutes</div>
+<div class="category-container" style="background-image: url('/images/nba/4.2/profiles/photos/2006/Chamberlain_Wilt.jpg'); background-repeat: no-repeat;"><div class="player-container clearfix"><span class="player-name"><a href="/player/Wilt-Chamberlain/Summary/65950">Wilt Chamberlain</a></span><span class="team-name"></span><span class="stat">45.8</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Bill-Russell/Summary/65961">Bill Russell</a></span><span class="team-name"></span><span class="stat">42.3</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Oscar-Robertson/Summary/65962">Oscar Robertson</a></span><span class="team-name"></span><span class="stat">42.2</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Allen-Iverson/Summary/603">Allen Iverson</a></span><span class="team-name"></span><span class="stat">41.1</span></div><div class="player-container clearfix"><span class="player-name"><a href="/player/Elgin-Baylor/Summary/65978">Elgin Baylor</a></span><span class="team-name"></span><span class="stat">40.0</span></div></div></div><div style="clear: both;"></div><h2 class="border" style="margin-top: 0.5em;">
+Historical NBA Regular Season Stats - Averages</h2>
+<table class="tablesaw compact" data-tablesaw-mode="swipe" data-tablesaw-mode-switch data-tablesaw-mode-exclude="columntoggle">
+<thead>
+<tr>
+<th data-tablesaw-priority="persist">#</th>
+<th data-tablesaw-priority="persist" ><a href="/nba/stats/Historical/Averages/Qualified/player/All/desc/1/Regular_Season">Player</a></th>
+<th>Team</th>
+<th ><a href="/nba/stats/Historical/Averages/Qualified/gp/All/desc/1/Regular_Season">GP</a></th>
+<th ><a href="/nba/stats/Historical/Averages/Qualified/minutes/All/desc/1/Regular_Season">MPG</a></th>
+<th data-tablesaw-sortable-default-col class='tablesaw-sortable-descending' data-tablesaw-priority='persist'><a href="/nba/stats/Historical/Averages/Qualified/points/All/asc/1/Regular_Season">PPG</a></th>
+<th ><a href="/nba/stats/Historical/Averages/Qualified/fgm/All/desc/1/Regular_Season">FGM</a></th>
+<th ><a href="/nba/stats/Historical/Averages/Qualified/fga/All/desc/1/Regular_Season">FGA</a></th>
+<th ><a href="/nba/stats/Historical/Averages/Qualified/fg_pct/All/desc/1/Regular_Season">FG%</a></th>
+<th ><a href="/nba/stats/Historical/Averages/Qualified/tpfgm/All/desc/1/Regular_Season">3PM</a></th>
+<th ><a href="/nba/stats/Historical/Averages/Qualified/tpfga/All/desc/1/Regular_Season">3PA</a></th>
+<th ><a href="/nba/stats/Historical/Averages/Qualified/tpfg_pct/All/desc/1/Regular_Season">3P%</a></th>
+<th ><a href="/nba/stats/Historical/Averages/Qualified/ftm/All/desc/1/Regular_Season">FTM</a></th>
+<th ><a href="/nba/stats/Historical/Averages/Qualified/fta/All/desc/1/Regular_Season">FTA</a></th>
+<th ><a href="/nba/stats/Historical/Averages/Qualified/ft_pct/All/desc/1/Regular_Season">FT%</a></th>
+<th ><a href="/nba/stats/Historical/Averages/Qualified/orb/All/desc/1/Regular_Season">ORB</a></th>
+<th ><a href="/nba/stats/Historical/Averages/Qualified/drb/All/desc/1/Regular_Season">DRB</a></th>
+<th ><a href="/nba/stats/Historical/Averages/Qualified/trb/All/desc/1/Regular_Season">RPG</a></th>
+<th ><a href="/nba/stats/Historical/Averages/Qualified/assists/All/desc/1/Regular_Season">APG</a></th>
+<th ><a href="/nba/stats/Historical/Averages/Qualified/steals/All/desc/1/Regular_Season">SPG</a></th>
+<th ><a href="/nba/stats/Historical/Averages/Qualified/blocks/All/desc/1/Regular_Season">BPG</a></th>
+<th ><a href="/nba/stats/Historical/Averages/Qualified/turnovers/All/desc/1/Regular_Season">TOV</a></th>
+<th ><a href="/nba/stats/Historical/Averages/Qualified/fouls/All/desc/1/Regular_Season">PF</a></th>
+</tr>
+</thead>
+<tbody>
+<tr><td class='rank'>601</td><td class='nowrap'><a href="/player/Enes-Freedom/Summary/9273">Enes Freedom</a></td><td>-</td><td>748</td><td>21.5</td><td>11.2</td><td>4.6</td><td>8.4</td><td>.548</td><td>0.1</td><td>0.2</td><td>.289</td><td>1.9</td><td>2.5</td><td>.777</td><td>3.0</td><td>4.8</td><td>7.8</td><td>0.9</td><td>0.4</td><td>0.5</td><td>1.4</td><td>2.1</td></tr>
+<tr><td class='rank'>602</td><td class='nowrap'><a href="/player/Horace-Grant/Summary/985">Horace Grant</a></td><td>-</td><td>1165</td><td>33.2</td><td>11.2</td><td>4.7</td><td>9.2</td><td>.509</td><td>0.0</td><td>0.1</td><td>.063</td><td>1.8</td><td>2.6</td><td>.692</td><td>3.0</td><td>5.1</td><td>8.1</td><td>2.2</td><td>1.0</td><td>1.0</td><td>1.1</td><td>2.4</td></tr>
+<tr><td class='rank'>603</td><td class='nowrap'><a href="/player/Lloyd-Neal/Summary/65939">Lloyd Neal</a></td><td>POR</td><td>435</td><td>25.3</td><td>11.1</td><td>4.6</td><td>9.4</td><td>.485</td><td>0.0</td><td>0.0</td><td>.000</td><td>2.0</td><td>3.0</td><td>.672</td><td>1.9</td><td>4.9</td><td>7.7</td><td>1.5</td><td>0.5</td><td>0.9</td><td>1.6</td><td>2.9</td></tr>
+<tr><td class='rank'>604</td><td class='nowrap'><a href="/player/Jay-Humphries/Summary/42880">Jay Humphries</a></td><td>-</td><td>788</td><td>29.3</td><td>11.1</td><td>4.4</td><td>9.3</td><td>.476</td><td>0.3</td><td>0.9</td><td>.297</td><td>2.0</td><td>2.5</td><td>.782</td><td>0.7</td><td>1.9</td><td>2.5</td><td>5.5</td><td>1.5</td><td>0.1</td><td>1.9</td><td>2.8</td></tr>
+<tr><td class='rank'>605</td><td class='nowrap'><a href="/player/Corliss-Williamson/Summary/639">Corliss Williamson</a></td><td>-</td><td>822</td><td>22.8</td><td>11.1</td><td>4.4</td><td>8.9</td><td>.490</td><td>0.0</td><td>0.1</td><td>.136</td><td>2.4</td><td>3.3</td><td>.714</td><td>1.5</td><td>2.4</td><td>3.9</td><td>1.2</td><td>0.6</td><td>0.3</td><td>1.6</td><td>2.7</td></tr>
+<tr><td class='rank'>606</td><td class='nowrap'><a href="/player/Ricky-Rubio/Summary/1599">Ricky Rubio</a> *</td><td>-</td><td>665</td><td>30.3</td><td>11.1</td><td>3.6</td><td>9.3</td><td>.389</td><td>0.9</td><td>2.8</td><td>.326</td><td>3.0</td><td>3.5</td><td>.843</td><td>0.6</td><td>3.5</td><td>4.2</td><td>7.6</td><td>1.8</td><td>0.1</td><td>2.6</td><td>2.5</td></tr>
+<tr><td class='rank'>607</td><td class='nowrap'><a href="/player/Dee-Brown/Summary/1296">Dee Brown</a></td><td>-</td><td>608</td><td>27.7</td><td>11.1</td><td>4.2</td><td>9.6</td><td>.436</td><td>1.0</td><td>2.8</td><td>.357</td><td>1.8</td><td>2.1</td><td>.825</td><td>0.5</td><td>2.1</td><td>2.6</td><td>3.7</td><td>1.3</td><td>0.3</td><td>1.5</td><td>2.1</td></tr>
+<tr><td class='rank'>608</td><td class='nowrap'><a href="/player/Mel-Hutchins/Summary/66587">Mel Hutchins</a></td><td>-</td><td>437</td><td>37.9</td><td>11.1</td><td>4.4</td><td>11.4</td><td>.389</td><td>0.0</td><td>0.0</td><td>.000</td><td>2.3</td><td>3.4</td><td>.673</td><td>0.0</td><td>0.0</td><td>9.6</td><td>3.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>2.9</td></tr>
+<tr><td class='rank'>609</td><td class='nowrap'><a href="/player/Bobby-Portis/Summary/41433">Bobby Portis</a> *</td><td>-</td><td>455</td><td>21.7</td><td>11.1</td><td>4.5</td><td>9.5</td><td>.470</td><td>1.1</td><td>2.7</td><td>.384</td><td>1.1</td><td>1.4</td><td>.752</td><td>1.9</td><td>4.7</td><td>6.6</td><td>1.2</td><td>0.6</td><td>0.4</td><td>1.1</td><td>1.9</td></tr>
+<tr><td class='rank'>610</td><td class='nowrap'><a href="/player/Scott-Skiles/Summary/2514">Scott Skiles</a></td><td>-</td><td>600</td><td>28.0</td><td>11.1</td><td>3.8</td><td>8.8</td><td>.435</td><td>0.9</td><td>2.3</td><td>.379</td><td>2.6</td><td>2.9</td><td>.889</td><td>0.5</td><td>2.1</td><td>2.5</td><td>6.5</td><td>0.8</td><td>0.0</td><td>2.5</td><td>2.2</td></tr>
+<tr><td class='rank'>611</td><td class='nowrap'><a href="/player/Pooh-Richardson/Summary/1387">Pooh Richardson</a></td><td>-</td><td>639</td><td>30.4</td><td>11.1</td><td>4.8</td><td>10.7</td><td>.444</td><td>0.6</td><td>1.7</td><td>.329</td><td>1.0</td><td>1.5</td><td>.652</td><td>0.7</td><td>2.1</td><td>2.8</td><td>6.5</td><td>1.3</td><td>0.2</td><td>1.8</td><td>1.8</td></tr>
+<tr><td class='rank'>612</td><td class='nowrap'><a href="/player/Tayshaun-Prince/Summary/202">Tayshaun Prince</a></td><td>-</td><td>1017</td><td>31.0</td><td>11.1</td><td>4.5</td><td>9.9</td><td>.455</td><td>0.6</td><td>1.5</td><td>.367</td><td>1.5</td><td>2.0</td><td>.756</td><td>1.1</td><td>3.2</td><td>4.3</td><td>2.4</td><td>0.6</td><td>0.5</td><td>1.0</td><td>1.2</td></tr>
+<tr><td class='rank'>613</td><td class='nowrap'><a href="/player/Mo-Cheeks/Summary/4637">Mo Cheeks</a></td><td>-</td><td>1101</td><td>31.6</td><td>11.1</td><td>4.5</td><td>8.5</td><td>.523</td><td>0.1</td><td>0.2</td><td>.256</td><td>2.1</td><td>2.7</td><td>.793</td><td>0.6</td><td>2.2</td><td>2.8</td><td>6.7</td><td>2.1</td><td>0.3</td><td>2.1</td><td>2.1</td></tr>
+<tr><td class='rank'>614</td><td class='nowrap'><a href="/player/Nicolas-Batum/Summary/782">Nicolas Batum</a> *</td><td>-</td><td>919</td><td>30.6</td><td>11.1</td><td>3.9</td><td>9.0</td><td>.437</td><td>1.6</td><td>4.4</td><td>.363</td><td>1.6</td><td>1.9</td><td>.836</td><td>1.0</td><td>4.1</td><td>5.1</td><td>3.5</td><td>1.0</td><td>0.6</td><td>1.7</td><td>1.7</td></tr>
+<tr><td class='rank'>615</td><td class='nowrap'><a href="/player/Paul-Neumann/Summary/67299">Paul Neumann</a></td><td>-</td><td>451</td><td>24.4</td><td>11.1</td><td>4.1</td><td>9.2</td><td>.442</td><td>0.0</td><td>0.0</td><td>.000</td><td>3.0</td><td>3.7</td><td>.799</td><td>0.0</td><td>0.0</td><td>2.9</td><td>3.2</td><td>0.0</td><td>0.0</td><td>0.0</td><td>2.9</td></tr>
+<tr><td class='rank'>616</td><td class='nowrap'><a href="/player/Johnny-Dawkins/Summary/4682">Johnny Dawkins</a></td><td>-</td><td>541</td><td>27.5</td><td>11.1</td><td>4.4</td><td>9.6</td><td>.456</td><td>0.3</td><td>1.0</td><td>.330</td><td>2.0</td><td>2.3</td><td>.857</td><td>0.6</td><td>1.9</td><td>2.5</td><td>5.5</td><td>1.1</td><td>0.1</td><td>2.0</td><td>1.5</td></tr>
+<tr><td class='rank'>617</td><td class='nowrap'><a href="/player/Hedo-Turkoglu/Summary/526">Hedo Turkoglu</a></td><td>-</td><td>997</td><td>26.8</td><td>11.1</td><td>3.9</td><td>9.1</td><td>.426</td><td>1.2</td><td>3.3</td><td>.384</td><td>2.1</td><td>2.7</td><td>.784</td><td>0.6</td><td>3.3</td><td>4.0</td><td>2.8</td><td>0.8</td><td>0.3</td><td>1.6</td><td>2.4</td></tr>
+<tr><td class='rank'>618</td><td class='nowrap'><a href="/player/Joe-Harris/Summary/23549">Joe Harris</a> *</td><td>-</td><td>416</td><td>25.6</td><td>11.0</td><td>4.0</td><td>8.4</td><td>.482</td><td>2.1</td><td>4.8</td><td>.439</td><td>0.9</td><td>1.1</td><td>.780</td><td>0.6</td><td>2.7</td><td>3.2</td><td>1.6</td><td>0.5</td><td>0.2</td><td>1.1</td><td>2.1</td></tr>
+<tr><td class='rank'>619</td><td class='nowrap'><a href="/player/Bobby-Phills/Summary/1294">Bobby Phills</a></td><td>-</td><td>467</td><td>28.7</td><td>11.0</td><td>4.2</td><td>9.5</td><td>.443</td><td>0.7</td><td>1.9</td><td>.390</td><td>1.9</td><td>2.6</td><td>.738</td><td>0.9</td><td>2.3</td><td>3.1</td><td>2.7</td><td>1.3</td><td>0.3</td><td>1.5</td><td>2.4</td></tr>
+<tr><td class='rank'>620</td><td class='nowrap'><a href="/player/Hot-Rod-Williams/Summary/1201">Hot Rod Williams</a></td><td>-</td><td>887</td><td>29.7</td><td>11.0</td><td>4.2</td><td>8.7</td><td>.480</td><td>0.0</td><td>0.0</td><td>.105</td><td>2.7</td><td>3.7</td><td>.726</td><td>2.3</td><td>4.4</td><td>6.8</td><td>1.8</td><td>0.8</td><td>1.6</td><td>1.4</td><td>2.5</td></tr>
+<tr><td class='rank'>621</td><td class='nowrap'><a href="/player/Avery-Bradley/Summary/2194">Avery Bradley</a></td><td>-</td><td>660</td><td>27.5</td><td>11.0</td><td>4.4</td><td>10.2</td><td>.434</td><td>1.3</td><td>3.6</td><td>.365</td><td>0.9</td><td>1.1</td><td>.783</td><td>0.6</td><td>2.2</td><td>2.8</td><td>1.7</td><td>1.0</td><td>0.2</td><td>1.3</td><td>2.2</td></tr>
+<tr><td class='rank'>622</td><td class='nowrap'><a href="/player/Mo-Taylor/Summary/591">Mo Taylor</a></td><td>-</td><td>534</td><td>25.0</td><td>11.0</td><td>4.6</td><td>9.9</td><td>.466</td><td>0.0</td><td>0.1</td><td>.152</td><td>1.8</td><td>2.5</td><td>.711</td><td>1.5</td><td>3.1</td><td>4.6</td><td>1.2</td><td>0.5</td><td>0.5</td><td>1.8</td><td>3.0</td></tr>
+<tr><td class='rank'>623</td><td class='nowrap'><a href="/player/Nate-Robinson/Summary/161">Nate Robinson</a></td><td>-</td><td>618</td><td>22.5</td><td>11.0</td><td>4.0</td><td>9.4</td><td>.423</td><td>1.3</td><td>3.6</td><td>.360</td><td>1.7</td><td>2.2</td><td>.796</td><td>0.6</td><td>1.7</td><td>2.3</td><td>3.0</td><td>0.9</td><td>0.1</td><td>1.4</td><td>2.4</td></tr>
+<tr><td class='rank'>624</td><td class='nowrap'><a href="/player/Sherman-Douglas/Summary/1003">Sherman Douglas</a></td><td>-</td><td>765</td><td>27.6</td><td>11.0</td><td>4.4</td><td>9.0</td><td>.484</td><td>0.2</td><td>0.8</td><td>.267</td><td>2.1</td><td>3.1</td><td>.678</td><td>0.7</td><td>1.5</td><td>2.2</td><td>5.9</td><td>1.0</td><td>0.1</td><td>2.3</td><td>2.1</td></tr>
+<tr><td class='rank'>625</td><td class='nowrap'><a href="/player/Johnny-Newman/Summary/955">Johnny Newman</a></td><td>-</td><td>1159</td><td>24.5</td><td>11.0</td><td>3.8</td><td>8.3</td><td>.461</td><td>0.5</td><td>1.5</td><td>.336</td><td>2.8</td><td>3.4</td><td>.810</td><td>0.8</td><td>1.4</td><td>2.2</td><td>1.5</td><td>0.9</td><td>0.2</td><td>1.4</td><td>2.8</td></tr>
+<tr><td class='rank'>626</td><td class='nowrap'><a href="/player/Bison-Dele/Summary/1388">Bison Dele</a></td><td>-</td><td>413</td><td>24.2</td><td>11.0</td><td>4.5</td><td>8.5</td><td>.528</td><td>0.0</td><td>0.0</td><td>.143</td><td>2.0</td><td>2.9</td><td>.691</td><td>2.1</td><td>4.1</td><td>6.2</td><td>1.1</td><td>0.8</td><td>0.9</td><td>2.0</td><td>3.1</td></tr>
+<tr><td class='rank'>627</td><td class='nowrap'><a href="/player/Micheal-Williams/Summary/1469">Micheal Williams</a></td><td>-</td><td>413</td><td>25.2</td><td>11.0</td><td>3.6</td><td>7.7</td><td>.464</td><td>0.1</td><td>0.5</td><td>.227</td><td>3.7</td><td>4.3</td><td>.868</td><td>0.7</td><td>1.8</td><td>2.5</td><td>5.8</td><td>1.7</td><td>0.2</td><td>2.3</td><td>2.6</td></tr>
+<tr><td class='rank'>628</td><td class='nowrap'><a href="/player/Kevin-Grevey/Summary/56755">Kevin Grevey</a></td><td>-</td><td>672</td><td>22.7</td><td>11.0</td><td>4.3</td><td>9.9</td><td>.437</td><td>0.4</td><td>1.1</td><td>.334</td><td>2.1</td><td>2.5</td><td>.817</td><td>0.9</td><td>1.5</td><td>2.4</td><td>1.9</td><td>0.6</td><td>0.2</td><td>1.4</td><td>1.9</td></tr>
+<tr><td class='rank'>629</td><td class='nowrap'><a href="/player/Derrick-McKey/Summary/1009">Derrick McKey</a></td><td>-</td><td>937</td><td>29.1</td><td>11.0</td><td>4.2</td><td>8.6</td><td>.486</td><td>0.2</td><td>0.7</td><td>.316</td><td>2.4</td><td>3.1</td><td>.779</td><td>1.6</td><td>3.1</td><td>4.7</td><td>2.4</td><td>1.1</td><td>0.7</td><td>1.8</td><td>2.9</td></tr>
+<tr><td class='rank'>630</td><td class='nowrap'><a href="/player/Chris-Morris/Summary/1459">Chris Morris</a></td><td>-</td><td>747</td><td>25.1</td><td>11.0</td><td>4.2</td><td>9.6</td><td>.441</td><td>0.7</td><td>2.2</td><td>.306</td><td>1.9</td><td>2.5</td><td>.739</td><td>2.0</td><td>2.7</td><td>4.7</td><td>1.6</td><td>1.2</td><td>0.7</td><td>1.6</td><td>2.3</td></tr>
+<tr><td class='rank'>631</td><td class='nowrap'><a href="/player/Drew-Gooden/Summary/210">Drew Gooden</a></td><td>-</td><td>790</td><td>25.5</td><td>11.0</td><td>4.3</td><td>9.4</td><td>.462</td><td>0.1</td><td>0.4</td><td>.257</td><td>2.2</td><td>2.8</td><td>.760</td><td>2.4</td><td>4.7</td><td>7.1</td><td>1.1</td><td>0.7</td><td>0.6</td><td>1.5</td><td>2.5</td></tr>
+<tr><td class='rank'>632</td><td class='nowrap'><a href="/player/Ray-Felix/Summary/66207">Ray Felix</a></td><td>-</td><td>637</td><td>23.8</td><td>10.9</td><td>3.8</td><td>9.2</td><td>.412</td><td>0.0</td><td>0.0</td><td>.000</td><td>3.4</td><td>5.0</td><td>.678</td><td>0.0</td><td>0.0</td><td>8.9</td><td>0.7</td><td>0.0</td><td>0.0</td><td>0.0</td><td>3.8</td></tr>
+<tr><td class='rank'>633</td><td class='nowrap'><a href="/player/Anthony-Mason/Summary/1026">Anthony Mason</a></td><td>-</td><td>882</td><td>34.7</td><td>10.9</td><td>4.1</td><td>8.0</td><td>.509</td><td>0.0</td><td>0.0</td><td>.167</td><td>2.8</td><td>4.0</td><td>.709</td><td>2.2</td><td>6.1</td><td>8.3</td><td>3.4</td><td>0.7</td><td>0.3</td><td>1.8</td><td>2.7</td></tr>
+<tr><td class='rank'>634</td><td class='nowrap'><a href="/player/Phil-Jordon/Summary/70562">Phil Jordon</a></td><td>-</td><td>442</td><td>24.4</td><td>10.9</td><td>4.4</td><td>11.2</td><td>.398</td><td>0.0</td><td>0.0</td><td>.000</td><td>2.0</td><td>2.9</td><td>.694</td><td>0.0</td><td>0.0</td><td>6.9</td><td>1.7</td><td>0.0</td><td>0.0</td><td>0.0</td><td>2.8</td></tr>
+<tr><td class='rank'>635</td><td class='nowrap'><a href="/player/Rodney-Rogers/Summary/720">Rodney Rogers</a></td><td>-</td><td>866</td><td>25.3</td><td>10.9</td><td>4.2</td><td>9.2</td><td>.451</td><td>0.8</td><td>2.3</td><td>.347</td><td>1.8</td><td>2.6</td><td>.690</td><td>1.5</td><td>3.0</td><td>4.5</td><td>2.0</td><td>1.0</td><td>0.5</td><td>1.9</td><td>3.1</td></tr>
+<tr><td class='rank'>636</td><td class='nowrap'><a href="/player/Kevin-Edwards/Summary/1071">Kevin Edwards</a></td><td>-</td><td>604</td><td>25.4</td><td>10.9</td><td>4.4</td><td>10.4</td><td>.423</td><td>0.3</td><td>0.9</td><td>.335</td><td>1.9</td><td>2.3</td><td>.803</td><td>0.9</td><td>1.9</td><td>2.7</td><td>2.7</td><td>1.4</td><td>0.3</td><td>1.9</td><td>1.7</td></tr>
+<tr><td class='rank'>637</td><td class='nowrap'><a href="/player/Markieff-Morris/Summary/4191">Markieff Morris</a> *</td><td>-</td><td>717</td><td>24.8</td><td>10.9</td><td>4.2</td><td>9.4</td><td>.446</td><td>0.8</td><td>2.5</td><td>.341</td><td>1.6</td><td>2.1</td><td>.777</td><td>1.2</td><td>4.0</td><td>5.2</td><td>1.6</td><td>0.8</td><td>0.5</td><td>1.5</td><td>2.7</td></tr>
+<tr><td class='rank'>638</td><td class='nowrap'><a href="/player/Kirk-Hinrich/Summary/212">Kirk Hinrich</a></td><td>-</td><td>879</td><td>30.7</td><td>10.9</td><td>4.0</td><td>9.7</td><td>.411</td><td>1.3</td><td>3.6</td><td>.375</td><td>1.6</td><td>2.0</td><td>.800</td><td>0.4</td><td>2.6</td><td>2.9</td><td>4.8</td><td>1.1</td><td>0.3</td><td>1.8</td><td>2.8</td></tr>
+<tr><td class='rank'>639</td><td class='nowrap'><a href="/player/Joe-Graboski/Summary/70574">Joe Graboski</a></td><td>-</td><td>845</td><td>30.3</td><td>10.9</td><td>4.0</td><td>11.4</td><td>.352</td><td>0.0</td><td>0.0</td><td>.000</td><td>2.8</td><td>4.0</td><td>.701</td><td>0.0</td><td>0.0</td><td>8.0</td><td>1.8</td><td>0.0</td><td>0.0</td><td>0.0</td><td>3.0</td></tr>
+<tr><td class='rank'>640</td><td class='nowrap'><a href="/player/Sam-Bowie/Summary/4633">Sam Bowie</a></td><td>-</td><td>511</td><td>27.6</td><td>10.9</td><td>4.2</td><td>9.2</td><td>.452</td><td>0.1</td><td>0.2</td><td>.302</td><td>2.5</td><td>3.3</td><td>.748</td><td>2.3</td><td>5.2</td><td>7.5</td><td>2.1</td><td>0.5</td><td>1.8</td><td>1.9</td><td>3.0</td></tr>
+<tr><td class='rank'>641</td><td class='nowrap'><a href="/player/Joe-Smith/Summary/257">Joe Smith</a></td><td>-</td><td>1030</td><td>26.2</td><td>10.9</td><td>4.2</td><td>9.2</td><td>.455</td><td>0.0</td><td>0.1</td><td>.238</td><td>2.5</td><td>3.1</td><td>.790</td><td>2.4</td><td>4.0</td><td>6.4</td><td>1.0</td><td>0.6</td><td>0.8</td><td>1.3</td><td>2.9</td></tr>
+<tr><td class='rank'>642</td><td class='nowrap'><a href="/player/Phil-Hubbard/Summary/50458">Phil Hubbard</a></td><td>-</td><td>665</td><td>23.9</td><td>10.9</td><td>4.0</td><td>8.1</td><td>.495</td><td>0.0</td><td>0.0</td><td>.038</td><td>2.8</td><td>4.0</td><td>.706</td><td>2.3</td><td>3.1</td><td>5.3</td><td>1.3</td><td>0.9</td><td>0.1</td><td>2.0</td><td>3.1</td></tr>
+<tr><td class='rank'>643</td><td class='nowrap'><a href="/player/Brandon-Clarke/Summary/84518">Brandon Clarke</a> *</td><td>MEM</td><td>185</td><td>21.8</td><td>10.9</td><td>4.6</td><td>7.8</td><td>.592</td><td>0.3</td><td>0.9</td><td>.291</td><td>1.4</td><td>2.0</td><td>.699</td><td>1.8</td><td>3.8</td><td>5.6</td><td>1.4</td><td>0.7</td><td>0.9</td><td>0.7</td><td>1.7</td></tr>
+<tr><td class='rank'>644</td><td class='nowrap'><a href="/player/Red-Rocha/Summary/66596">Red Rocha</a></td><td>-</td><td>586</td><td>29.9</td><td>10.9</td><td>3.9</td><td>10.5</td><td>.370</td><td>0.0</td><td>0.0</td><td>.000</td><td>3.1</td><td>4.1</td><td>.759</td><td>0.0</td><td>0.0</td><td>6.6</td><td>2.0</td><td>0.0</td><td>0.0</td><td>0.0</td><td>3.6</td></tr>
+<tr><td class='rank'>645</td><td class='nowrap'><a href="/player/Doc-Rivers/Summary/1531">Doc Rivers</a></td><td>-</td><td>864</td><td>27.3</td><td>10.9</td><td>3.8</td><td>8.6</td><td>.444</td><td>0.4</td><td>1.3</td><td>.328</td><td>2.8</td><td>3.6</td><td>.784</td><td>0.7</td><td>2.3</td><td>3.0</td><td>5.7</td><td>1.8</td><td>0.4</td><td>1.9</td><td>3.1</td></tr>
+<tr><td class='rank'>646</td><td class='nowrap'><a href="/player/Ledell-Eackles/Summary/1545">Ledell Eackles</a></td><td>-</td><td>441</td><td>20.2</td><td>10.8</td><td>4.1</td><td>9.2</td><td>.445</td><td>0.3</td><td>0.9</td><td>.336</td><td>2.3</td><td>3.0</td><td>.767</td><td>0.8</td><td>1.4</td><td>2.2</td><td>1.7</td><td>0.6</td><td>0.1</td><td>1.4</td><td>1.8</td></tr>
+<tr><td class='rank'>647</td><td class='nowrap'><a href="/player/Herb-Williams/Summary/1464">Herb Williams</a></td><td>-</td><td>1102</td><td>25.8</td><td>10.8</td><td>4.6</td><td>9.8</td><td>.467</td><td>0.0</td><td>0.1</td><td>.095</td><td>1.7</td><td>2.4</td><td>.696</td><td>1.5</td><td>4.4</td><td>5.9</td><td>1.7</td><td>0.5</td><td>1.5</td><td>1.7</td><td>2.6</td></tr>
+<tr><td class='rank'>648</td><td class='nowrap'><a href="/player/Larry-Siegfried/Summary/66815">Larry Siegfried</a></td><td>-</td><td>550</td><td>24.8</td><td>10.8</td><td>3.9</td><td>9.5</td><td>.409</td><td>0.0</td><td>0.0</td><td>.000</td><td>3.0</td><td>3.5</td><td>.854</td><td>0.0</td><td>0.0</td><td>2.8</td><td>3.5</td><td>0.0</td><td>0.0</td><td>0.0</td><td>2.4</td></tr>
+<tr><td class='rank'>649</td><td class='nowrap'><a href="/player/Frank-Selvy/Summary/66577">Frank Selvy</a></td><td>-</td><td>565</td><td>26.4</td><td>10.8</td><td>3.9</td><td>10.0</td><td>.394</td><td>0.0</td><td>0.0</td><td>.000</td><td>3.0</td><td>4.1</td><td>.728</td><td>0.0</td><td>0.0</td><td>3.7</td><td>2.8</td><td>0.0</td><td>0.0</td><td>0.0</td><td>2.2</td></tr>
+<tr><td class='rank'>650</td><td class='nowrap'><a href="/player/Herm-Gilliam/Summary/66060">Herm Gilliam</a></td><td>-</td><td>578</td><td>26.0</td><td>10.8</td><td>4.7</td><td>10.6</td><td>.441</td><td>0.0</td><td>0.0</td><td>.000</td><td>1.5</td><td>1.9</td><td>.792</td><td>0.9</td><td>2.2</td><td>3.8</td><td>3.8</td><td>1.3</td><td>0.2</td><td>0.0</td><td>2.6</td></tr>
+<tr><td class='rank'>651</td><td class='nowrap'><a href="/player/Carl-Landry/Summary/2">Carl Landry</a></td><td>-</td><td>513</td><td>22.5</td><td>10.8</td><td>4.1</td><td>7.6</td><td>.535</td><td>0.0</td><td>0.1</td><td>.300</td><td>2.7</td><td>3.4</td><td>.785</td><td>1.9</td><td>3.0</td><td>4.9</td><td>0.7</td><td>0.4</td><td>0.4</td><td>1.2</td><td>2.4</td></tr>
+<tr><td class='rank'>652</td><td class='nowrap'><a href="/player/Wes-Unseld/Summary/65879">Wes Unseld</a></td><td>WAS</td><td>984</td><td>36.4</td><td>10.8</td><td>4.4</td><td>8.7</td><td>.509</td><td>0.0</td><td>0.0</td><td>.500</td><td>1.9</td><td>3.0</td><td>.633</td><td>3.5</td><td>8.4</td><td>14.0</td><td>3.9</td><td>1.1</td><td>0.6</td><td>1.9</td><td>2.8</td></tr>
+<tr><td class='rank'>653</td><td class='nowrap'><a href="/player/Jarrett-Jack/Summary/366">Jarrett Jack</a></td><td>-</td><td>867</td><td>27.8</td><td>10.8</td><td>3.9</td><td>8.9</td><td>.440</td><td>0.7</td><td>2.1</td><td>.343</td><td>2.3</td><td>2.7</td><td>.855</td><td>0.3</td><td>2.5</td><td>2.9</td><td>4.6</td><td>0.8</td><td>0.1</td><td>2.0</td><td>1.8</td></tr>
+<tr><td class='rank'>654</td><td class='nowrap'><a href="/player/Troy-Murphy/Summary/241">Troy Murphy</a></td><td>-</td><td>729</td><td>27.3</td><td>10.8</td><td>3.9</td><td>8.8</td><td>.445</td><td>0.8</td><td>2.2</td><td>.388</td><td>2.1</td><td>2.7</td><td>.785</td><td>1.9</td><td>5.9</td><td>7.8</td><td>1.5</td><td>0.7</td><td>0.4</td><td>1.2</td><td>2.6</td></tr>
+<tr><td class='rank'>655</td><td class='nowrap'><a href="/player/Blue-Edwards/Summary/1223">Blue Edwards</a></td><td>-</td><td>704</td><td>26.1</td><td>10.8</td><td>4.3</td><td>9.0</td><td>.475</td><td>0.4</td><td>1.3</td><td>.335</td><td>1.8</td><td>2.3</td><td>.779</td><td>1.0</td><td>2.4</td><td>3.4</td><td>2.0</td><td>1.0</td><td>0.4</td><td>1.7</td><td>2.7</td></tr>
+<tr><td class='rank'>656</td><td class='nowrap'><a href="/player/Arron-Afflalo/Summary/54">Arron Afflalo</a></td><td>-</td><td>762</td><td>27.3</td><td>10.8</td><td>3.9</td><td>8.7</td><td>.450</td><td>1.1</td><td>2.9</td><td>.386</td><td>1.8</td><td>2.2</td><td>.825</td><td>0.4</td><td>2.4</td><td>2.9</td><td>1.8</td><td>0.4</td><td>0.2</td><td>1.1</td><td>1.9</td></tr>
+<tr><td class='rank'>657</td><td class='nowrap'><a href="/player/Devin-Harris/Summary/276">Devin Harris</a></td><td>-</td><td>985</td><td>24.3</td><td>10.8</td><td>3.5</td><td>8.2</td><td>.432</td><td>0.8</td><td>2.6</td><td>.325</td><td>2.8</td><td>3.6</td><td>.796</td><td>0.3</td><td>1.9</td><td>2.2</td><td>3.9</td><td>1.0</td><td>0.2</td><td>1.7</td><td>2.2</td></tr>
+<tr><td class='rank'>658</td><td class='nowrap'><a href="/player/Aaron-James/Summary/65934">Aaron James</a></td><td>UTA</td><td>356</td><td>21.5</td><td>10.8</td><td>4.5</td><td>9.4</td><td>.481</td><td>0.0</td><td>0.0</td><td>.000</td><td>1.7</td><td>2.3</td><td>.760</td><td>1.5</td><td>2.6</td><td>4.1</td><td>1.0</td><td>0.4</td><td>0.2</td><td>1.6</td><td>2.7</td></tr>
+<tr><td class='rank'>659</td><td class='nowrap'><a href="/player/Rod-Thorn/Summary/66181">Rod Thorn</a></td><td>-</td><td>466</td><td>22.3</td><td>10.8</td><td>4.2</td><td>9.6</td><td>.433</td><td>0.0</td><td>0.0</td><td>.000</td><td>2.4</td><td>3.4</td><td>.723</td><td>0.0</td><td>0.0</td><td>3.1</td><td>2.6</td><td>0.0</td><td>0.0</td><td>0.0</td><td>1.7</td></tr>
+<tr><td class='rank'>660</td><td class='nowrap'><a href="/player/Morris-Peterson/Summary/525">Morris Peterson</a></td><td>-</td><td>711</td><td>27.2</td><td>10.7</td><td>3.9</td><td>9.2</td><td>.418</td><td>1.4</td><td>3.8</td><td>.373</td><td>1.6</td><td>2.0</td><td>.773</td><td>0.8</td><td>2.7</td><td>3.5</td><td>1.5</td><td>0.9</td><td>0.2</td><td>1.0</td><td>2.3</td></tr>
+<tr><td class='rank'>661</td><td class='nowrap'><a href="/player/John-Lucas/Summary/50248">John Lucas</a></td><td>-</td><td>928</td><td>27.5</td><td>10.7</td><td>4.2</td><td>9.4</td><td>.449</td><td>0.4</td><td>1.2</td><td>.303</td><td>2.0</td><td>2.6</td><td>.776</td><td>0.5</td><td>1.8</td><td>2.3</td><td>7.0</td><td>1.4</td><td>0.1</td><td>2.1</td><td>1.8</td></tr>
+<tr><td class='rank'>662</td><td class='nowrap'><a href="/player/Ruben-Patterson/Summary/920">Ruben Patterson</a></td><td>-</td><td>649</td><td>24.6</td><td>10.7</td><td>4.1</td><td>8.0</td><td>.517</td><td>0.1</td><td>0.3</td><td>.179</td><td>2.4</td><td>3.8</td><td>.641</td><td>2.0</td><td>2.2</td><td>4.2</td><td>1.8</td><td>1.2</td><td>0.4</td><td>1.8</td><td>2.2</td></tr>
+<tr><td class='rank'>663</td><td class='nowrap'><a href="/player/George-Hill/Summary/780">George Hill</a> *</td><td>-</td><td>871</td><td>27.2</td><td>10.7</td><td>3.8</td><td>8.3</td><td>.457</td><td>1.2</td><td>3.1</td><td>.381</td><td>1.9</td><td>2.4</td><td>.807</td><td>0.6</td><td>2.4</td><td>3.0</td><td>3.1</td><td>0.9</td><td>0.3</td><td>1.2</td><td>2.0</td></tr>
+<tr><td class='rank'>664</td><td class='nowrap'><a href="/player/Alec-Burks/Summary/4169">Alec Burks</a> *</td><td>-</td><td>625</td><td>23.0</td><td>10.6</td><td>3.6</td><td>8.5</td><td>.418</td><td>1.1</td><td>2.8</td><td>.380</td><td>2.4</td><td>3.0</td><td>.799</td><td>0.6</td><td>2.9</td><td>3.5</td><td>2.0</td><td>0.7</td><td>0.2</td><td>1.2</td><td>1.9</td></tr>
+<tr><td class='rank'>665</td><td class='nowrap'><a href="/player/Mike-Miller/Summary/186">Mike Miller</a></td><td>-</td><td>1032</td><td>26.9</td><td>10.6</td><td>3.9</td><td>8.5</td><td>.459</td><td>1.5</td><td>3.8</td><td>.407</td><td>1.3</td><td>1.7</td><td>.769</td><td>0.6</td><td>3.6</td><td>4.2</td><td>2.6</td><td>0.6</td><td>0.2</td><td>1.5</td><td>2.0</td></tr>
+<tr><td class='rank'>666</td><td class='nowrap'><a href="/player/Leandro-Barbosa/Summary/465">Leandro Barbosa</a></td><td>-</td><td>850</td><td>21.6</td><td>10.6</td><td>4.0</td><td>8.7</td><td>.459</td><td>1.2</td><td>3.0</td><td>.387</td><td>1.5</td><td>1.8</td><td>.821</td><td>0.4</td><td>1.6</td><td>2.0</td><td>2.1</td><td>0.8</td><td>0.1</td><td>1.2</td><td>1.9</td></tr>
+<tr><td class='rank'>667</td><td class='nowrap'><a href="/player/Ron-Anderson/Summary/43271">Ron Anderson</a></td><td>-</td><td>664</td><td>22.8</td><td>10.6</td><td>4.4</td><td>9.4</td><td>.471</td><td>0.2</td><td>0.6</td><td>.287</td><td>1.6</td><td>2.0</td><td>.814</td><td>1.3</td><td>2.2</td><td>3.5</td><td>1.4</td><td>0.7</td><td>0.1</td><td>1.1</td><td>1.5</td></tr>
+<tr><td class='rank'>668</td><td class='nowrap'><a href="/player/Jack-Coleman/Summary/66590">Jack Coleman</a></td><td>-</td><td>633</td><td>33.1</td><td>10.6</td><td>4.4</td><td>10.7</td><td>.416</td><td>0.0</td><td>0.0</td><td>.000</td><td>1.7</td><td>2.5</td><td>.695</td><td>0.0</td><td>0.0</td><td>9.2</td><td>2.8</td><td>0.0</td><td>0.0</td><td>0.0</td><td>3.0</td></tr>
+<tr><td class='rank'>669</td><td class='nowrap'><a href="/player/Steve-Mix/Summary/65810">Steve Mix</a></td><td>-</td><td>787</td><td>23.9</td><td>10.6</td><td>4.1</td><td>8.2</td><td>.498</td><td>0.0</td><td>0.1</td><td>.286</td><td>2.5</td><td>3.1</td><td>.803</td><td>1.9</td><td>3.5</td><td>5.3</td><td>1.8</td><td>1.2</td><td>0.2</td><td>1.3</td><td>2.2</td></tr>
+<tr><td class='rank'>670</td><td class='nowrap'><a href="/player/Otto-Porter/Summary/24181">Otto Porter</a> *</td><td>-</td><td>504</td><td>26.0</td><td>10.6</td><td>4.1</td><td>8.6</td><td>.477</td><td>1.3</td><td>3.3</td><td>.398</td><td>1.1</td><td>1.4</td><td>.794</td><td>1.2</td><td>3.9</td><td>5.1</td><td>1.5</td><td>1.1</td><td>0.4</td><td>0.8</td><td>1.8</td></tr>
+<tr><td class='rank'>671</td><td class='nowrap'><a href="/player/Paul-Pressey/Summary/4636">Paul Pressey</a></td><td>-</td><td>724</td><td>27.2</td><td>10.6</td><td>3.9</td><td>8.1</td><td>.485</td><td>0.1</td><td>0.5</td><td>.222</td><td>2.6</td><td>3.5</td><td>.749</td><td>1.2</td><td>2.6</td><td>3.9</td><td>5.1</td><td>1.4</td><td>0.6</td><td>2.3</td><td>2.8</td></tr>
+<tr><td class='rank'>672</td><td class='nowrap'><a href="/player/Terry-Mills/Summary/959">Terry Mills</a></td><td>-</td><td>678</td><td>24.2</td><td>10.6</td><td>4.2</td><td>9.2</td><td>.457</td><td>0.8</td><td>2.0</td><td>.384</td><td>1.4</td><td>1.8</td><td>.781</td><td>1.5</td><td>3.9</td><td>5.4</td><td>1.3</td><td>0.6</td><td>0.4</td><td>1.3</td><td>2.8</td></tr>
+<tr><td class='rank'>673</td><td class='nowrap'><a href="/player/Derrick-Favors/Summary/2191">Derrick Favors</a></td><td>-</td><td>790</td><td>24.3</td><td>10.6</td><td>4.3</td><td>8.1</td><td>.534</td><td>0.0</td><td>0.2</td><td>.198</td><td>1.9</td><td>2.8</td><td>.663</td><td>2.4</td><td>4.7</td><td>7.1</td><td>1.1</td><td>0.7</td><td>1.2</td><td>1.3</td><td>2.5</td></tr>
+<tr><td class='rank'>674</td><td class='nowrap'><a href="/player/Jim-Washington/Summary/66306">Jim Washington</a></td><td>-</td><td>774</td><td>29.3</td><td>10.6</td><td>4.2</td><td>9.4</td><td>.449</td><td>0.0</td><td>0.0</td><td>.000</td><td>2.1</td><td>3.0</td><td>.705</td><td>2.1</td><td>5.2</td><td>8.6</td><td>1.4</td><td>0.5</td><td>0.6</td><td>0.0</td><td>2.9</td></tr>
+<tr><td class='rank'>675</td><td class='nowrap'><a href="/player/Andres-Nocioni/Summary/211">Andres Nocioni</a></td><td>-</td><td>514</td><td>23.4</td><td>10.5</td><td>3.8</td><td>8.7</td><td>.431</td><td>1.1</td><td>3.1</td><td>.373</td><td>1.9</td><td>2.3</td><td>.799</td><td>0.7</td><td>3.8</td><td>4.5</td><td>1.2</td><td>0.4</td><td>0.4</td><td>1.4</td><td>2.7</td></tr>
+<tr><td class='rank'>676</td><td class='nowrap'><a href="/player/Brian-Grant/Summary/1081">Brian Grant</a></td><td>-</td><td>756</td><td>28.3</td><td>10.5</td><td>4.1</td><td>8.4</td><td>.490</td><td>0.0</td><td>0.0</td><td>.214</td><td>2.3</td><td>3.1</td><td>.746</td><td>2.4</td><td>5.0</td><td>7.4</td><td>1.2</td><td>0.6</td><td>0.7</td><td>1.6</td><td>3.2</td></tr>
+<tr><td class='rank'>677</td><td class='nowrap'><a href="/player/Jason-Williams/Summary/563">Jason Williams</a></td><td>-</td><td>788</td><td>29.4</td><td>10.5</td><td>3.9</td><td>9.8</td><td>.398</td><td>1.6</td><td>4.8</td><td>.327</td><td>1.1</td><td>1.4</td><td>.813</td><td>0.2</td><td>2.1</td><td>2.3</td><td>5.9</td><td>1.2</td><td>0.1</td><td>2.1</td><td>1.4</td></tr>
+<tr><td class='rank'>678</td><td class='nowrap'><a href="/player/Bill-Robinzine/Summary/65869">Bill Robinzine</a></td><td>-</td><td>529</td><td>21.6</td><td>10.5</td><td>4.1</td><td>8.6</td><td>.482</td><td>0.0</td><td>0.0</td><td>.250</td><td>2.2</td><td>3.0</td><td>.749</td><td>2.1</td><td>4.0</td><td>6.1</td><td>1.1</td><td>1.1</td><td>0.2</td><td>2.0</td><td>3.7</td></tr>
+<tr><td class='rank'>679</td><td class='nowrap'><a href="/player/Dana-Barros/Summary/845">Dana Barros</a></td><td>-</td><td>850</td><td>22.9</td><td>10.5</td><td>3.9</td><td>8.4</td><td>.460</td><td>1.3</td><td>3.1</td><td>.411</td><td>1.5</td><td>1.7</td><td>.858</td><td>0.3</td><td>1.6</td><td>1.9</td><td>3.3</td><td>0.9</td><td>0.1</td><td>1.4</td><td>1.3</td></tr>
+<tr><td class='rank'>680</td><td class='nowrap'><a href="/player/OG-Anunoby/Summary/84076">OG Anunoby</a> *</td><td>TOR</td><td>305</td><td>26.9</td><td>10.5</td><td>4.0</td><td>8.4</td><td>.469</td><td>1.5</td><td>4.0</td><td>.373</td><td>1.1</td><td>1.5</td><td>.711</td><td>1.0</td><td>3.2</td><td>4.2</td><td>1.4</td><td>1.1</td><td>0.5</td><td>1.1</td><td>2.3</td></tr>
+<tr><td class='rank'>681</td><td class='nowrap'><a href="/player/Marcus-Smart/Summary/24275">Marcus Smart</a> *</td><td>BOS</td><td>524</td><td>29.8</td><td>10.5</td><td>3.5</td><td>9.1</td><td>.382</td><td>1.5</td><td>4.8</td><td>.321</td><td>1.9</td><td>2.5</td><td>.780</td><td>0.8</td><td>2.8</td><td>3.6</td><td>4.5</td><td>1.6</td><td>0.4</td><td>1.8</td><td>2.6</td></tr>
+<tr><td class='rank'>682</td><td class='nowrap'><a href="/player/Jack-Nichols/Summary/70740">Jack Nichols</a></td><td>-</td><td>505</td><td>26.9</td><td>10.4</td><td>4.0</td><td>10.9</td><td>.368</td><td>0.0</td><td>0.0</td><td>.000</td><td>2.4</td><td>3.2</td><td>.752</td><td>0.0</td><td>0.0</td><td>6.0</td><td>1.9</td><td>0.0</td><td>0.0</td><td>0.0</td><td>3.0</td></tr>
+<tr><td class='rank'>683</td><td class='nowrap'><a href="/player/Walter-Dukes/Summary/66579">Walter Dukes</a></td><td>-</td><td>553</td><td>26.5</td><td>10.4</td><td>3.5</td><td>9.4</td><td>.369</td><td>0.0</td><td>0.0</td><td>.000</td><td>3.5</td><td>5.0</td><td>.700</td><td>0.0</td><td>0.0</td><td>11.3</td><td>1.1</td><td>0.0</td><td>0.0</td><td>0.0</td><td>4.1</td></tr>
+<tr><td class='rank'>684</td><td class='nowrap'><a href="/player/Rodney-Hood/Summary/24165">Rodney Hood</a></td><td>-</td><td>448</td><td>24.5</td><td>10.4</td><td>3.8</td><td>9.0</td><td>.420</td><td>1.4</td><td>4.0</td><td>.366</td><td>1.4</td><td>1.7</td><td>.841</td><td>0.4</td><td>2.2</td><td>2.6</td><td>1.6</td><td>0.7</td><td>0.2</td><td>1.0</td><td>1.9</td></tr>
+<tr><td class='rank'>685</td><td class='nowrap'><a href="/player/Charlie-Villanueva/Summary/64">Charlie Villanueva</a></td><td>-</td><td>656</td><td>20.7</td><td>10.4</td><td>4.0</td><td>9.3</td><td>.435</td><td>1.1</td><td>3.2</td><td>.341</td><td>1.2</td><td>1.6</td><td>.772</td><td>1.2</td><td>3.4</td><td>4.6</td><td>0.8</td><td>0.5</td><td>0.5</td><td>1.0</td><td>2.2</td></tr>
+<tr><td class='rank'>686</td><td class='nowrap'><a href="/player/Trevor-Ariza/Summary/398">Trevor Ariza</a></td><td>-</td><td>1118</td><td>29.5</td><td>10.4</td><td>3.7</td><td>8.8</td><td>.422</td><td>1.4</td><td>4.1</td><td>.351</td><td>1.5</td><td>2.1</td><td>.731</td><td>1.0</td><td>3.8</td><td>4.8</td><td>2.1</td><td>1.5</td><td>0.3</td><td>1.3</td><td>2.0</td></tr>
+<tr><td class='rank'>687</td><td class='nowrap'><a href="/player/Cameron-Johnson/Summary/80114">Cameron Johnson</a> *</td><td>PHX</td><td>187</td><td>24.2</td><td>10.4</td><td>3.6</td><td>8.2</td><td>.439</td><td>2.1</td><td>5.5</td><td>.389</td><td>1.0</td><td>1.3</td><td>.838</td><td>0.7</td><td>2.9</td><td>3.6</td><td>1.4</td><td>0.7</td><td>0.3</td><td>0.6</td><td>1.6</td></tr>
+<tr><td class='rank'>688</td><td class='nowrap'><a href="/player/Elden-Campbell/Summary/838">Elden Campbell</a></td><td>-</td><td>1044</td><td>24.7</td><td>10.3</td><td>3.9</td><td>8.5</td><td>.460</td><td>0.0</td><td>0.0</td><td>.054</td><td>2.6</td><td>3.7</td><td>.699</td><td>1.8</td><td>4.1</td><td>5.9</td><td>1.1</td><td>0.7</td><td>1.5</td><td>1.3</td><td>2.9</td></tr>
+<tr><td class='rank'>689</td><td class='nowrap'><a href="/player/Don-Nelson/Summary/66065">Don Nelson</a></td><td>-</td><td>1053</td><td>20.6</td><td>10.3</td><td>3.8</td><td>8.0</td><td>.480</td><td>0.0</td><td>0.0</td><td>.000</td><td>2.7</td><td>3.6</td><td>.765</td><td>1.2</td><td>3.1</td><td>4.9</td><td>1.4</td><td>0.3</td><td>0.1</td><td>0.0</td><td>2.3</td></tr>
+<tr><td class='rank'>690</td><td class='nowrap'><a href="/player/Anfernee-Simons/Summary/106511">Anfernee Simons</a> *</td><td>POR</td><td>215</td><td>21.0</td><td>10.3</td><td>3.7</td><td>8.7</td><td>.424</td><td>1.8</td><td>4.7</td><td>.390</td><td>1.1</td><td>1.3</td><td>.834</td><td>0.3</td><td>1.8</td><td>2.2</td><td>2.0</td><td>0.4</td><td>0.1</td><td>1.1</td><td>1.7</td></tr>
+<tr><td class='rank'>691</td><td class='nowrap'><a href="/player/Ramon-Sessions/Summary/14">Ramon Sessions</a></td><td>-</td><td>691</td><td>23.3</td><td>10.3</td><td>3.5</td><td>8.0</td><td>.434</td><td>0.3</td><td>1.0</td><td>.316</td><td>3.1</td><td>3.9</td><td>.791</td><td>0.5</td><td>2.2</td><td>2.7</td><td>4.1</td><td>0.7</td><td>0.1</td><td>1.7</td><td>1.4</td></tr>
+<tr><td class='rank'>692</td><td class='nowrap'><a href="/player/Chris-Gatling/Summary/1245">Chris Gatling</a></td><td>-</td><td>700</td><td>19.7</td><td>10.3</td><td>4.0</td><td>7.8</td><td>.513</td><td>0.1</td><td>0.3</td><td>.249</td><td>2.2</td><td>3.4</td><td>.660</td><td>1.8</td><td>3.6</td><td>5.3</td><td>0.7</td><td>0.7</td><td>0.5</td><td>1.5</td><td>2.7</td></tr>
+<tr><td class='rank'>693</td><td class='nowrap'><a href="/player/Bruce-Seals/Summary/65960">Bruce Seals</a></td><td>OKC</td><td>235</td><td>24.4</td><td>10.3</td><td>4.2</td><td>9.7</td><td>.435</td><td>0.0</td><td>0.0</td><td>.000</td><td>1.8</td><td>2.7</td><td>.675</td><td>1.4</td><td>3.2</td><td>4.6</td><td>1.2</td><td>0.7</td><td>0.6</td><td>1.4</td><td>3.3</td></tr>
+<tr><td class='rank'>694</td><td class='nowrap'><a href="/player/Sam-Lacey/Summary/65811">Sam Lacey</a></td><td>-</td><td>1002</td><td>31.8</td><td>10.3</td><td>4.3</td><td>9.7</td><td>.441</td><td>0.0</td><td>0.1</td><td>.188</td><td>1.7</td><td>2.4</td><td>.738</td><td>2.2</td><td>6.9</td><td>9.7</td><td>3.7</td><td>1.3</td><td>1.5</td><td>2.2</td><td>3.5</td></tr>
+<tr><td class='rank'>695</td><td class='nowrap'><a href="/player/Randy-Foye/Summary/79">Randy Foye</a></td><td>-</td><td>752</td><td>25.6</td><td>10.3</td><td>3.6</td><td>9.0</td><td>.401</td><td>1.5</td><td>4.0</td><td>.366</td><td>1.6</td><td>1.9</td><td>.852</td><td>0.3</td><td>1.9</td><td>2.2</td><td>2.8</td><td>0.7</td><td>0.3</td><td>1.5</td><td>2.1</td></tr>
+<tr><td class='rank'>696</td><td class='nowrap'><a href="/player/George-King/Summary/70732">George King</a></td><td>-</td><td>411</td><td>32.6</td><td>10.3</td><td>3.7</td><td>9.7</td><td>.382</td><td>0.0</td><td>0.0</td><td>.000</td><td>2.9</td><td>4.5</td><td>.642</td><td>0.0</td><td>0.0</td><td>3.9</td><td>4.8</td><td>0.0</td><td>0.0</td><td>0.0</td><td>2.5</td></tr>
+<tr><td class='rank'>697</td><td class='nowrap'><a href="/player/Quentin-Richardson/Summary/167">Quentin Richardson</a></td><td>-</td><td>783</td><td>26.5</td><td>10.3</td><td>3.7</td><td>9.4</td><td>.397</td><td>1.5</td><td>4.2</td><td>.355</td><td>1.3</td><td>1.8</td><td>.718</td><td>1.2</td><td>3.5</td><td>4.7</td><td>1.5</td><td>0.8</td><td>0.2</td><td>1.1</td><td>2.0</td></tr>
+<tr><td class='rank'>698</td><td class='nowrap'><a href="/player/Jerome-Kersey/Summary/1023">Jerome Kersey</a></td><td>-</td><td>1153</td><td>24.4</td><td>10.3</td><td>4.1</td><td>8.8</td><td>.465</td><td>0.1</td><td>0.2</td><td>.201</td><td>2.0</td><td>2.9</td><td>.690</td><td>2.0</td><td>3.5</td><td>5.5</td><td>1.9</td><td>1.2</td><td>0.7</td><td>1.4</td><td>3.0</td></tr>
+<tr><td class='rank'>699</td><td class='nowrap'><a href="/player/David-Greenwood/Summary/49479">David Greenwood</a></td><td>-</td><td>823</td><td>28.4</td><td>10.2</td><td>4.0</td><td>8.3</td><td>.477</td><td>0.0</td><td>0.0</td><td>.138</td><td>2.3</td><td>3.1</td><td>.765</td><td>2.3</td><td>5.6</td><td>7.9</td><td>2.0</td><td>0.7</td><td>0.9</td><td>1.8</td><td>3.2</td></tr>
+<tr><td class='rank'>700</td><td class='nowrap'><a href="/player/Marvin-Williams/Summary/59">Marvin Williams</a></td><td>-</td><td>1072</td><td>28.1</td><td>10.2</td><td>3.7</td><td>8.3</td><td>.443</td><td>1.0</td><td>2.7</td><td>.361</td><td>1.9</td><td>2.4</td><td>.808</td><td>1.2</td><td>4.0</td><td>5.2</td><td>1.3</td><td>0.8</td><td>0.5</td><td>1.0</td><td>2.0</td></tr>
+</tbody>
+</table>
+<p class='footnote'><em>* Active player</em></p><p style='text-align: center;'><a href='/nba/stats/Historical/Averages/Qualified/points/All/desc/6/Regular_Season'>&laquo; Back</a> | <a href='/nba/stats/Historical/Averages/Qualified/points/All/desc/8/Regular_Season'>Next Page &raquo;</a></p><script type="text/javascript">
+function changePositions(pos) {
+var url = "/nba/stats/Historical/Averages/Qualified/points/All/desc/7/Regular_Season";
+console.log(url);
+if (url.indexOf(pos) >= 0) {
+console.log("index is "+url.indexOf(pos));
+url = url.replace("?"+pos+"=&","?");
+url = url.replace("&"+pos+"=&","&");
+url = url.replace("?"+pos+"=","");
+url = url.replace("&"+pos+"=","");
+url = url.replace("&"+pos,"");
+} else {
+console.log("index is not found");
+if (url.indexOf("?") >= 0) {
+url = url+"&"+pos+"=";
+} else {
+url = url+"?"+pos+"=";
+}
+}
+console.log("url is now: "+url);
+open_network(url);
+}
+</script>
+               <div style="clear: both;"></div>
+
+<!-- Tag ID: realgm_BTF_1 -->
+<div align="center" data-freestar-ad="__300x250 __300x250" id="realgm_BTF_1" style="float: left; width: auto; margin: 1em;">
+ <script data-cfasync="false" type="text/javascript">
+  freestar.config.enabled_slots.push({ placementName: "realgm_BTF_1", slotId: "realgm_BTF_1" });
+ </script>
+</div>
+ 
+<!-- Tag ID: realgm_BTF_3 -->
+<div align="center" data-freestar-ad="__300x250 __300x250" id="realgm_BTF_3" style="float: left; width: auto; margin: 1em;" class="hidden-mobile">
+ <script data-cfasync="false" type="text/javascript">
+  freestar.config.enabled_slots.push({ placementName: "realgm_BTF_3", slotId: "realgm_BTF_3" });
+ </script>
+</div>
+ 
+<!-- Tag ID: realgm_BTF_2 -->
+<div align="center" data-freestar-ad="__300x250 __300x250" id="realgm_BTF_2" style="float: left; width: auto; margin: 1em;" class="hidden-mobile">
+ <script data-cfasync="false" type="text/javascript">
+  freestar.config.enabled_slots.push({ placementName: "realgm_BTF_2", slotId: "realgm_BTF_2" });
+ </script>
+</div>
+
+<div style="clear: both;"></div>               
+               <input type="hidden" name="pageid" value="nba_stats" />
+<div id="gamb_footer">
+<details>
+<summary>NBA Stats</summary>
+<p>Welcome to our dedicated hub for NBA stats. This page displays the leaders for points, rebounds, assists, blocks, steals and average minutes on court. You can filter it down to the regular season, playoffs, Summer League or preseason.</p>
+<p>It goes all the way back to the 1946-47 season, so you can browse a wealth of historical data, and you can also check out all-time leaders. One of the filter tools allows you to break it down to a specific team, so you can see how their key players are performing.</p>
+<p>You can change the stat type from average to totals or to increments, such as âper minuteâ or âper 36 minutes.â There are advanced stats and miscellaneous stats too. This is perfect for any <a href="https://basketball.realgm.com/betting/sportsbooks/new-york">New York sports betting</a> customers looking to gain an edge when placing player props.</p>
+<p>You can check out each player's stats in a long list of categories, and you can drill down into how they perform during short bursts of action. If you plan to place bets on basketball in the Buckeye State, check out the leading <a href="https://basketball.realgm.com/betting/sportsbooks/ohio/promo-codes">Ohio sports betting promo codes</a> to find the best deals on the market.</p>
+</details>
+</div>
+                  <style type="text/css">
+                     #gamb_footer details {
+                        display:block; 
+                        margin: 2em 0 0;
+                     }
+                     #gamb_footer summary {
+                        display:block; 
+                        background:#111111;
+                        color:white;
+                        border-radius:5px;
+                        padding:5px;
+                        cursor:pointer;font-weight:bold;
+                     }
+
+                     #gamb_footer summary::-webkit-details-marker {
+                        color:#FF0000; 
+                        background:#FFFFFF; 
+                     }
+
+                     #gamb_footer details[open] summary::-webkit-details-marker {
+                        color:#0000FF; 
+                        background:#00FFFF;
+                     }
+                     #gamb_footer summary::-webkit-details-marker {
+                        display: none
+                     }
+
+                     #gamb_footer summary:after {
+                        content: "+";
+                        color: #FFFFFF;
+                        float: left;
+                        font-size: 1.5em;
+                        font-weight: bold;
+                        margin: -5px 5px 0 0;
+                        padding: 0;
+                        text-align: center;
+                        width: 20px;
+                     }
+
+                     #gamb_footer details[open] summary:after {
+                        content: "-";
+                        color: #FFFFFF
+                     }
+                  </style>
+                              
+            </div> <!-- #main -->
+         
+                     
+         </div> <!-- #main-container -->
+
+         <footer class="container wrapper">
+            <div class="footer-logo-container wrapper clearfix">
+               <a href="/" class="footer-logo mobile-only"></a>
+               <a href="#" class="backtotop">&uarr;</a>
+            </div>
+            
+            <div class="link-lists-container">
+               <div class="link-lists">
+   <div class="list-column">
+      <h3><a href="/nba">NBA</a></h3>
+      <div class="links">
+         <a href="https://forums.realgm.com/boards/viewforum.php?f=6">Forums</a>
+         <a href="/nba/news">News</a>
+         <a href="/nba/news/analysis">Analysis</a>
+         <a href="/tradechecker">Trade Checker</a>
+         <a href="/nba/teams">Teams</a>
+         <a href="/nba/players">Players</a>
+         <a href="/nba/scores">Scores</a>
+         <a href="/nba/standings">Standings</a>
+         <a href="/nba/stats">Stats</a>
+         <a href="/nba/depth-charts">Depth Charts</a>
+         <a href="/nba/awards">Awards</a>
+         <a href="https://www.vividseats.com/?wsUser=958" target="_blank">Tickets</a>
+         <!-- <a href="/betting">Betting</a> -->
+      </div>
+   </div>
+
+   <div class="list-column">
+      <h3><a href="/ncaa">NCAA</a></h3>
+      <div class="links">
+         <a href="https://forums.realgm.com/boards/viewforum.php?f=36">Forums</a>
+         <a href="/ncaa/news">News</a>
+         <a href="/ncaa/news/analysis">Analysis</a>
+         <a href="/ncaa/teams">Teams</a>
+         <a href="/ncaa/tournaments">Tournaments</a>
+         <a href="/ncaa/players">Players</a>
+         <a href="/ncaa/scores">Scores</a>
+         <a href="/ncaa/standings">Standings</a>
+         <a href="/ncaa/stats">Stats</a>
+         <a href="/ncaa/conferences/America-East-Conference/18/depth-charts/2014">Depth Charts</a>
+         <a href="/ncaa/awards">Awards</a>
+               </div>
+   </div>
+
+   <div class="list-column">
+      <h3><a href="/dleague">G League</a></h3>
+      <div class="links">
+         <a href="https://forums.realgm.com/boards/viewforum.php?f=350">Forums</a>
+         <a href="/dleague/news">News</a>
+         <a href="/dleague/news/analysis">Analysis</a>
+         <a href="/dleague/teams">Teams</a>
+         <a href="/dleague/players">Players</a>
+         <a href="/dleague/scores">Scores</a>
+         <a href="/dleague/standings">Standings</a>
+         <a href="/dleague/stats">Stats</a>
+         <a href="/dleague/depth-charts">Depth Charts</a>
+         <a href="/dleague/awards">Awards</a>
+      </div>
+   </div>
+</div>
+<div class="link-lists">
+   <div class="list-column">
+      <h3><a href="/international">International</a></h3>
+      <div class="links">
+         <a href="https://forums.realgm.com/boards/viewforum.php?f=5">Forums</a>
+         <a href="/international/news">News</a>
+         <a href="/international/news/analysis">Analysis</a>
+         <a href="/international/teams">Teams</a>
+         <a href="/international/leagues">Leagues</a>
+         <a href="/international/schedules">Schedules</a>
+         <a href="/international/scores">Scores</a>
+         <a href="/international/stats">Stats</a>
+      </div>
+   </div>
+   
+   <div class="list-column">
+      <h3><a href="/national">National</a></h3>
+      <div class="links">
+         <a href="https://forums.realgm.com/boards/viewforum.php?f=347">Forums</a>
+         <a href="/national/news">News</a>
+         <a href="/national/news/analysis">Analysis</a>
+         <a href="/national/countries">Countries</a>
+         <a href="/national/tournaments">Events</a>
+         <a href="/national/schedules">Schedules</a>
+         <a href="/national/scores">Scores</a>
+         <a href="/national/stats">Stats</a>
+      </div>
+   </div>
+   
+   <div class="list-column">
+      <h3><a href="/highschool">High School</a></h3>
+      <div class="links">
+         <a href="https://forums.realgm.com/boards/viewforum.php?f=346">Forums</a>
+         <a href="/highschool/news">News</a>
+         <a href="/highschool/news/analysis">Analysis</a>
+         <a href="/highschool/schools">Schools</a>
+         <a href="/highschool/allstar">All-Star Games</a>
+         <a href="/highschool/awards">Awards</a>
+      </div>
+   </div>
+</div>
+<div class="link-lists">
+   <div class="list-column">
+      <h3><a href="/betting">Betting</a></h3>
+      <div class="links">
+         <a href="https://basketball.realgm.com/betting/online-gambling-sitemap">Online Gambling Sitemap</a>
+      </div>
+   </div>
+</div>            </div>
+            
+            <div class="about-us-container">
+               <div class="social clearfix">
+                  <h3>Follow Us</h3>
+<ul class="rrssb-buttons clearfix">
+   <li class="email">
+      <a href="/info/heads-up">
+         <span class="icon">
+            <svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" 
+               width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
+               <g>
+                  <path d="M20.111 26.147c-2.336 1.051-4.361 1.401-7.125 1.401c-6.462 0-12.146-4.633-12.146-12.265 c0-7.94 5.762-14.833 14.561-14.833c6.853
+                     0 11.8 4.7 11.8 11.252c0 5.684-3.194 9.265-7.399 9.3 c-1.829 0-3.153-0.934-3.347-2.997h-0.077c-1.208 1.986-2.96 2.997-5.023 2.997c-2.532
+                     0-4.361-1.868-4.361-5.062 c0-4.749 3.504-9.071 9.111-9.071c1.713 0 3.7 0.4 4.6 0.973l-1.169 7.203c-0.388 2.298-0.116 3.3 1 3.4 c1.673 0
+                     3.773-2.102 3.773-6.58c0-5.061-3.27-8.994-9.303-8.994c-5.957 0-11.175 4.673-11.175 12.1 c0 6.5 4.2 10.2 10 10.201c1.986 0 4.089-0.43
+                     5.646-1.245L20.111 26.147z M16.646 10.1 c-0.311-0.078-0.701-0.155-1.207-0.155c-2.571 0-4.595 2.53-4.595 5.529c0 1.5 0.7 2.4 1.9 2.4 c1.441
+                     0 2.959-1.828 3.311-4.087L16.646 10.068z"/>
+               </g>
+            </svg>
+         </span>
+         <span class="text">newsletter</span>
+      </a>
+   </li>
+   <li class="twitter">
+      <a href="https://twitter.com/RealGM">
+         <span class="icon">
+              <svg version="1.1" id="Layer_1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px"
+                  width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
+                  <path d="M24.253,8.756C24.689,17.08,18.297,24.182,9.97,24.62c-3.122,0.162-6.219-0.646-8.861-2.32
+                  c2.703,0.179,5.376-0.648,7.508-2.321c-2.072-0.247-3.818-1.661-4.489-3.638c0.801,0.128,1.62,0.076,2.399-0.155
+                  C4.045,15.72,2.215,13.6,2.115,11.077c0.688,0.275,1.426,0.407,2.168,0.386c-2.135-1.65-2.729-4.621-1.394-6.965
+                  C5.575,7.816,9.54,9.84,13.803,10.071c-0.842-2.739,0.694-5.64,3.434-6.482c2.018-0.623,4.212,0.044,5.546,1.683
+                  c1.186-0.213,2.318-0.662,3.329-1.317c-0.385,1.256-1.247,2.312-2.399,2.942c1.048-0.106,2.069-0.394,3.019-0.851
+                  C26.275,7.229,25.39,8.196,24.253,8.756z"/>
+              </svg>
+         </span>
+         <span class="text">twitter</span>
+      </a>
+   </li>
+   <li class="facebook">
+      <a href="https://www.facebook.com/RealGM">
+         <span class="icon">
+            <svg version="1.1" id="Layer_1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" 
+               width="28px" height="28px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
+               <path d="M27.825,4.783c0-2.427-2.182-4.608-4.608-4.608H4.783c-2.422,0-4.608,2.182-4.608,4.608v18.434
+                  c0,2.427,2.181,4.608,4.608,4.608H14V17.379h-3.379v-4.608H14v-1.795c0-3.089,2.335-5.885,5.192-5.885h3.718v4.608h-3.726
+                  c-0.408,0-0.884,0.492-0.884,1.236v1.836h4.609v4.608h-4.609v10.446h4.916c2.422,0,4.608-2.188,4.608-4.608V4.783z"/>
+            </svg>
+         </span>
+         <span class="text">facebook</span>
+      </a>
+   </li>
+   <li class="instagram">
+      <a href="https://www.instagram.com/realgmnba">
+         <span class="icon">
+            <svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+             <title>Instagram</title>
+             <defs></defs>
+             <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                 <g id="Black" transform="translate(-642.000000, -295.000000)" fill="#000000">
+                     <path d="M666.000048,295 C659.481991,295 658.664686,295.027628 656.104831,295.144427 C653.550311,295.260939 651.805665,295.666687 650.279088,296.260017 C648.700876,296.873258 647.362454,297.693897 646.028128,299.028128 C644.693897,300.362454 643.873258,301.700876 643.260017,303.279088 C642.666687,304.805665 642.260939,306.550311 642.144427,309.104831 C642.027628,311.664686 642,312.481991 642,319.000048 C642,325.518009 642.027628,326.335314 642.144427,328.895169 C642.260939,331.449689 642.666687,333.194335 643.260017,334.720912 C643.873258,336.299124 644.693897,337.637546 646.028128,338.971872 C647.362454,340.306103 648.700876,341.126742 650.279088,341.740079 C651.805665,342.333313 653.550311,342.739061 656.104831,342.855573 C658.664686,342.972372 659.481991,343 666.000048,343 C672.518009,343 673.335314,342.972372 675.895169,342.855573 C678.449689,342.739061 680.194335,342.333313 681.720912,341.740079 C683.299124,341.126742 684.637546,340.306103 685.971872,338.971872 C687.306103,337.637546 688.126742,336.299124 688.740079,334.720912 C689.333313,333.194335 689.739061,331.449689 689.855573,328.895169 C689.972372,326.335314 690,325.518009 690,319.000048 C690,312.481991 689.972372,311.664686 689.855573,309.104831 C689.739061,306.550311 689.333313,304.805665 688.740079,303.279088 C688.126742,301.700876 687.306103,300.362454 685.971872,299.028128 C684.637546,297.693897 683.299124,296.873258 681.720912,296.260017 C680.194335,295.666687 678.449689,295.260939 675.895169,295.144427 C673.335314,295.027628 672.518009,295 666.000048,295 Z M666.000048,299.324317 C672.40826,299.324317 673.167356,299.348801 675.69806,299.464266 C678.038036,299.570966 679.308818,299.961946 680.154513,300.290621 C681.274771,300.725997 682.074262,301.246066 682.91405,302.08595 C683.753934,302.925738 684.274003,303.725229 684.709379,304.845487 C685.038054,305.691182 685.429034,306.961964 685.535734,309.30194 C685.651199,311.832644 685.675683,312.59174 685.675683,319.000048 C685.675683,325.40826 685.651199,326.167356 685.535734,328.69806 C685.429034,331.038036 685.038054,332.308818 684.709379,333.154513 C684.274003,334.274771 683.753934,335.074262 682.91405,335.91405 C682.074262,336.753934 681.274771,337.274003 680.154513,337.709379 C679.308818,338.038054 678.038036,338.429034 675.69806,338.535734 C673.167737,338.651199 672.408736,338.675683 666.000048,338.675683 C659.591264,338.675683 658.832358,338.651199 656.30194,338.535734 C653.961964,338.429034 652.691182,338.038054 651.845487,337.709379 C650.725229,337.274003 649.925738,336.753934 649.08595,335.91405 C648.246161,335.074262 647.725997,334.274771 647.290621,333.154513 C646.961946,332.308818 646.570966,331.038036 646.464266,328.69806 C646.348801,326.167356 646.324317,325.40826 646.324317,319.000048 C646.324317,312.59174 646.348801,311.832644 646.464266,309.30194 C646.570966,306.961964 646.961946,305.691182 647.290621,304.845487 C647.725997,303.725229 648.246066,302.925738 649.08595,302.08595 C649.925738,301.246066 650.725229,300.725997 651.845487,300.290621 C652.691182,299.961946 653.961964,299.570966 656.30194,299.464266 C658.832644,299.348801 659.59174,299.324317 666.000048,299.324317 Z M666.000048,306.675683 C659.193424,306.675683 653.675683,312.193424 653.675683,319.000048 C653.675683,325.806576 659.193424,331.324317 666.000048,331.324317 C672.806576,331.324317 678.324317,325.806576 678.324317,319.000048 C678.324317,312.193424 672.806576,306.675683 666.000048,306.675683 Z M666.000048,327 C661.581701,327 658,323.418299 658,319.000048 C658,314.581701 661.581701,311 666.000048,311 C670.418299,311 674,314.581701 674,319.000048 C674,323.418299 670.418299,327 666.000048,327 Z M681.691284,306.188768 C681.691284,307.779365 680.401829,309.068724 678.811232,309.068724 C677.22073,309.068724 675.931276,307.779365 675.931276,306.188768 C675.931276,304.598171 677.22073,303.308716 678.811232,303.308716 C680.401829,303.308716 681.691284,304.598171 681.691284,306.188768 Z" id="Instagram"></path>
+                 </g>
+                 <g id="Credit" transform="translate(-1734.000000, -472.000000)"></g>
+             </g>
+         </svg>
+         </span>
+         <span class="text">instagram</span>
+      </a>
+   </li>
+</ul>
+<!-- Buttons end here -->               </div>
+               
+               <div class="list-column">
+                  <h3>RealGM</h3>
+                  <div class="links">
+                     <a href="/info/contact-us">Contact Us</a>
+                     <a href="/info/about-us">About Us</a>
+                     <a href="/info/contact-us/advertising">Advertising</a>
+                     <a href="/info/privacy-policy">Privacy Policy</a>
+                     <a href="/info/terms-of-use">Terms of Use</a>
+                  </div>
+               </div>
+            </div>
+            
+            <p class="copyright">All content &copy; 2000-2022 RealGM, L.L.C. All rights reserved.</p>
+            
+         </footer>
+      
+      </div> <!-- #site-takeover -->
+
+      <script src="/js/vendor/jquery.hoverIntent.min.js"></script>
+      <script src="/js/main.js?v3"></script>
+      <script src="/js/plugins.js?v3"></script>
+     
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1568648-1', 'auto');
+  ga('send', 'pageview');
+</script>    </body>
+</html>
