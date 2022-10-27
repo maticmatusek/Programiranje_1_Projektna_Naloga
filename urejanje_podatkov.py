@@ -229,6 +229,3 @@ with open("kosarkarji-averages.csv", "w") as dat:
         ])
     writer.writeheader()
     writer.writerows(kosarkarji_averages)
-
-print(len(kosarkarji_averages),len(kosarkarji_totals),len(kosarkarji_misc))
-
