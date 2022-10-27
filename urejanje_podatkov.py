@@ -2,6 +2,8 @@ import csv
 import os
 import requests
 import re
+import json
+
 "</thead>.*?<tbody>.*?(.*)<p class='footnote'>"
 
 vzorec_bloka = re.compile(
@@ -21,15 +23,7 @@ vzorec_misc = re.compile(
 )
 
 vzorec_averages = re.compile(
-    r'<a href="/title/tt(?P<id>\d+)/.*?".*?'
-    r'img alt="(?P<naslov>.+?)".*?'
-    r'lister-item-year text-muted unbold">.*?\((?P<leto>\d{4})\)</span>.*?'
-    r'runtime">(?P<dolzina>\d+?) min</.*?'
-    r'<span class="genre">(?P<zanri>.*?)</span>.*?'
-    r'<strong>(?P<ocena>.+?)</strong>.*?'
-    r'<p class="text-muted">(?P<opis>.+?)</p.*?'
-    r'Directors?:(?P<reziserji>.+?)(<span class="ghost">|</p>).*?'
-    r'Votes:.*?data-value="(?P<glasovi>\d+)"',
+    r"/Summary/(?P<id>\d+)\">(?P<ime>[\w\s,\.\-']+?)</a>( \*)*</td><td>(?P<ekipa>\w{3}|-)</td><td>(?P<stevilka>[\d,]+)</td><td>(?P<procent1>[1234567890\.,]*)</td><td>(?P<procent2>[1234567890\.,]*)</td><td>(?P<procent3>[1234567890\.,]*)</td><td>(?P<procent4>[1234567890\.,]*)</td><td>(?P<procent5>[1234567890\.,]*)</td><td>(?P<procent6>[1234567890\.,]*)</td><td>(?P<procent7>[1234567890\.,]*)</td><td>(?P<procent8>[1234567890\.,]*)</td><td>(?P<procent9>[1234567890\.,]*)</td><td>(?P<procent10>[1234567890\.,]*)</td><td>(?P<procent11>[1234567890\.,]*)</td><td>(?P<procent12>[1234567890\.,]*)</td><td>(?P<procent13>[1234567890\.,]*)</td><td>(?P<procent14>[1234567890\.,]*)</td><td>(?P<procent15>[1234567890\.,]*)</td><td>(?P<procent16>[1234567890\.,]*)</td><td>(?P<procent17>[1234567890\.,]*)</td><td>(?P<procent18>[1234567890\.,]*)</td><td>(?P<procent19>[1234567890\.,]*)</td></tr>",
     flags=re.DOTALL
 )
 
@@ -60,7 +54,7 @@ def uredi_igralca(igralec,vrsta_statistike):
         kosarkar["obrambni_skok"] = int(deffensive_rebound.replace(",",""))
         kosarkar["skok"] = int(rebound.replace(",",""))
         kosarkar["podaje"] = int(assist.replace(",",""))
-        kosarkar["ukradene zoge"] = int(steal.replace(",",""))
+        kosarkar["ukradene_zoge"] = int(steal.replace(",",""))
         kosarkar["blokade"] = int(block.replace(",",""))
         kosarkar["izgubljene_zoge"] = int(turn_over.replace(",",""))
         kosarkar["osebne_napake"] = int(personal_fouls.replace(",",""))
@@ -86,14 +80,38 @@ def uredi_igralca(igralec,vrsta_statistike):
         kosarkar["asistence_proti_izgubljenim_zogam"] = float(assist_turnover)
         kosarkar["ukradene_zoge_proti_izgubljenim"] = float(steal_turnover)
         kosarkar["prosti_meti_proti_poskuom_meta_na_kos"] = float(freethrows_to_fieldgoalattempt)
-        
         kosarkar["zmage"] = int(zmage.replace(",",""))
         kosarkar["porazi"] = int(porazi.replace(",",""))
         kosarkar["procent_zmag"] = float("0"+ procent_zmag)
-
-        #  zmage, porazi, procent_zmag, procent_porazov, zmage_v_napadu, zmage_v_obrambi, dodatne_zmage
     if vrsta_statistike == "Averages":
-        pass
+        id_igralca ,ime ,aktivnost,ekipa,igrane_igre, minute_na_igro, tocke_na_igro, zadeti_meti_na_kos_na_igro, poskus_meta_na_kos_na_igro,procent_zdetih_metov, zadeti_meti_za_tri_tocke_na_igro, poskusi_meta_za_tri_tocke_na_igro, procent_zadetih_metov_za_tri_tocke, zadeti_prosti_meti_na_igro, poskusi_prostega_meta_na_igro, procent_zadetih_prostih_metov, napdalni_skoki_na_igro, obrambni_skoki_na_igro, skoki_na_igro, asistence_na_igro, ukradene_zoge_na_igro, blokade_na_igro, izgubljene_zoge_na_igro, osebne_napake_na_igro  = igralec
+        kosarkar["id_igralca"] = int(id_igralca)
+        kosarkar["ime"] = ime
+        if "*" in aktivnost:
+            kosarkar["trenutna_aktivnost"] = "Da"
+        else:
+            kosarkar["trenutna_aktivnost"] = "Ne"
+        kosarkar["ekipa"] = ekipa
+        kosarkar["stevilo_igranih_iger"] = int(igrane_igre.replace(",",""))
+        kosarkar["minute_na_parketu_na_igro"] = float(minute_na_igro) 
+        kosarkar["tocke_na_igro"] = float(tocke_na_igro)
+        kosarkar["zadeti_meti_na_igro"] = float(zadeti_meti_na_kos_na_igro)
+        kosarkar["poskusi_meta_na_kos_na_igro"] = float(poskus_meta_na_kos_na_igro)
+        kosarkar["procent_zadetih_metov_na_kos"] = float(procent_zdetih_metov)
+        kosarkar["zadeti_meti_za_tri_tocke_na_igro"] =float(zadeti_meti_za_tri_tocke_na_igro) 
+        kosarkar["poskusi_meta_za_tri_tocke_na_igro"] = float(poskusi_meta_za_tri_tocke_na_igro)
+        kosarkar["procent_zadetih_metov_za_tri_tocke"] = float(procent_zadetih_metov_za_tri_tocke)
+        kosarkar["zadeti_prosti_meti_na_igro"] = float(zadeti_prosti_meti_na_igro)
+        kosarkar["poskusi_prostega_meta_na_igro"] = float(poskusi_prostega_meta_na_igro)
+        kosarkar["procent_zadetih_prostih_metov"] = float(procent_zadetih_prostih_metov)
+        kosarkar["napadalni_skoki_na_igro"] = float(napdalni_skoki_na_igro)
+        kosarkar["obrambni_skoki_na_igro"] = float(obrambni_skoki_na_igro)
+        kosarkar["skoki_na_igro"] = float(skoki_na_igro)
+        kosarkar["asistence_na_igro"] = float(asistence_na_igro)
+        kosarkar["ukradene_zoge_na_igro"] = float(ukradene_zoge_na_igro)
+        kosarkar["blokade_na_igro"] = float(blokade_na_igro)
+        kosarkar["izgubljene_zoge_na_igro"] = float(izgubljene_zoge_na_igro)
+        kosarkar["osebne_napake_na_igro"] = float(osebne_napake_na_igro)
     return kosarkar
 
 kosarkarji_totals = []
@@ -111,11 +129,106 @@ for j in ["Totals","Misc_Stats", "Averages"]:
                     if j =="Misc_Stats":
                         for igralec in vzorec_misc.findall(blok.group(0)):
                             kosarkarji_misc.append(uredi_igralca(igralec,j))
-                            print(igralec)
                     if j == "Totals":
                         for igralec in vzorec_totals.findall(blok.group(0)):
                             kosarkarji_totals.append(uredi_igralca(igralec,j))
                     if j == "Averages":
-                        pass
-                    
-print(kosarkarji_misc[1],len(kosarkarji_misc))
+                        for igralec in vzorec_averages.findall(blok.group(0)):
+                            kosarkarji_averages.append(uredi_igralca(igralec,j))
+
+with open("kosarkarji-misc.json", "w") as dat:
+    json.dump(kosarkarji_misc, dat, indent=4, ensure_ascii=False)                 
+with open("kosarkarji-averages.json", "w") as dat:
+    json.dump(kosarkarji_averages, dat, indent=4, ensure_ascii=False)                 
+with open("kosarkarji-totals.json", "w") as dat:
+    json.dump(kosarkarji_totals, dat, indent=4, ensure_ascii=False)                 
+
+with open("kosarkarji-misc.csv", "w") as dat:
+    writer = csv.DictWriter(dat, [
+        "id_igralca",
+        "ime",
+        "trenutna_aktivnost",
+        "ekipa",
+        "dvojni_dvojcek",
+        "trojni_dvojcek",
+        "40+_tock",
+        "20+_skokov",
+        "20+_asistenc",
+        "5+_ukradenih_zog",
+        "5+_blokov",
+        "max_tock_v_igri",
+        "stevilo_tehnicnih_napak",
+        "hands_on_bucket_HOB",
+        "asistence_proti_izgubljenim_zogam",
+        "ukradene_zoge_proti_izgubljenim",
+        "prosti_meti_proti_poskuom_meta_na_kos",
+        "zmage",
+        "porazi",
+        "procent_zmag"
+        ])
+    writer.writeheader()
+    writer.writerows(kosarkarji_misc)
+
+with open("kosarkarji-totals.csv", "w") as dat:
+    writer = csv.DictWriter(dat, [
+        "id_igralca",
+        "ime",
+        "trenutna_aktivnost",
+        "ekipa",
+        "stevilo_igranih_iger",
+        "minute_na_parketu",
+        "dosezene_tocke",
+        "zadeti_meti_na_kos",
+        "poskusi_meta_na_kos",
+        "procent_zadetih_metov",
+        "zadeti_meti_za_tri_tocke",
+        "poskusi_meta_za_tri_tocke",
+        "procent_meta_za_tri_tocke",
+        "zadeti_prosti_meti",
+        "poskusi_prostega_meta",
+        "procent_zadetih_prostih_metov",
+        "napadalni_skok",
+        "obrambni_skok",
+        "skok",
+        "podaje",
+        "ukradene_zoge",
+        "blokade",
+        "izgubljene_zoge",
+        "osebne_napake"
+        ])
+
+    writer.writeheader()
+    writer.writerows(kosarkarji_totals)
+
+with open("kosarkarji-averages.csv", "w") as dat:
+    writer = csv.DictWriter(dat, [
+        "id_igralca",
+        "ime",
+        "trenutna_aktivnost",
+        "ekipa",
+        "stevilo_igranih_iger",
+        "minute_na_parketu_na_igro",
+        "tocke_na_igro",
+        "zadeti_meti_na_igro",
+        "poskusi_meta_na_kos_na_igro",
+        "procent_zadetih_metov_na_kos",
+        "zadeti_meti_za_tri_tocke_na_igro",
+        "poskusi_meta_za_tri_tocke_na_igro",
+        "procent_zadetih_metov_za_tri_tocke",
+        "zadeti_prosti_meti_na_igro",
+        "poskusi_prostega_meta_na_igro",
+        "procent_zadetih_prostih_metov",
+        "napadalni_skoki_na_igro",
+        "obrambni_skoki_na_igro",
+        "skoki_na_igro",
+        "asistence_na_igro",
+        "ukradene_zoge_na_igro",
+        "blokade_na_igro",
+        "izgubljene_zoge_na_igro",
+        "osebne_napake_na_igro"
+        ])
+    writer.writeheader()
+    writer.writerows(kosarkarji_averages)
+
+print(len(kosarkarji_averages),len(kosarkarji_totals),len(kosarkarji_misc))
+
